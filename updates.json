@@ -1,0 +1,17 @@
+{
+ "updated": "2026-10-14",
+ "items": [
+  {
+   "title": "GuardDuty Runtime Monitoring now part of Security Hub Threat Analytics plan",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-security-hub-runtime-monitoring/",
+   "date": "2026-10-01",
+   "domain": "Security"
+  },
+  {
+   "title": "AWS Service Availability Updates (services moving to maintenance)",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-service-availability/",
+   "date": "2026-09-30",
+   "domain": "Technology"
+  }
+ ]
+}

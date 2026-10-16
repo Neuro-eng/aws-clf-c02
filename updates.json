@@ -1,23 +1,71 @@
 {
- "updated": "2026-10-15",
+ "updated": "2026-10-16",
  "items": [
   {
-   "title": "Amazon SageMaker Studio simplifies getting started for new AI/ML builders with social sign-in",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-studio-social-sign-in/",
-   "date": "2026-10-14",
+   "title": "Web Search on Amazon Bedrock AgentCore expands to AWS GovCloud and 3 Regions",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-agentcore/",
+   "date": "2026-10-15",
+   "domain": "Cloud Concepts"
+  },
+  {
+   "title": "Amazon SageMaker Studio simplifies getting started for new AI/ML builders with new sign-in options",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-studio-new-sign-in-options/",
+   "date": "2026-10-15",
    "domain": "Technology"
   },
   {
-   "title": "ARC Region switch adds four new capabilities",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/region-switch-target-health-ssm-lambda/",
-   "date": "2026-10-14",
+   "title": "Amazon EC2 T8i instances are now available in South America (São Paulo)",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/ec2-t8i-instances-south-america/",
+   "date": "2026-10-15",
+   "domain": "Technology"
+  },
+  {
+   "title": "Amazon DynamoDB Streams now supports timestamp-based stream processing",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-dynamodb-streams-timestamp-processing",
+   "date": "2026-10-15",
+   "domain": "Technology"
+  },
+  {
+   "title": "AWS Lambda Durable Execution SDK for Go is now generally available",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-durable-go-sdk-support/",
+   "date": "2026-10-15",
+   "domain": "Technology"
+  },
+  {
+   "title": "Muse Spark Open model now available on Amazon SageMaker JumpStart",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/muse-spark-open-on-sagemaker-jumpstart/",
+   "date": "2026-10-15",
+   "domain": "Technology"
+  },
+  {
+   "title": "Amazon Time Sync Service adds support for microsecond-accurate time on 135 additional EC2 instance types in all commercial regions",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/time-sync-additional-instances-all-regions",
+   "date": "2026-10-15",
    "domain": "Cloud Concepts"
   },
   {
-   "title": "AWS Backup now supports Amazon FSx file systems in the Asia Pacific (New Zealand) Region",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-backup-fsx-asia-pacific-new-zealand/",
-   "date": "2026-10-14",
+   "title": "AWS Transform for full-stack Windows modernization now supports Aurora PostgreSQL cross-region deployment in 7 more Regions",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transform-full-stack-aurora-cross-region",
+   "date": "2026-10-15",
    "domain": "Cloud Concepts"
+  },
+  {
+   "title": "Amazon MSK Connect and AWS Glue Schema Registry are now available in the AWS European Sovereign Cloud (Germany) region",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-msk-connect-aws-gsr-additional-aws-regions",
+   "date": "2026-10-15",
+   "domain": "Cloud Concepts"
+  },
+  {
+   "title": "Amazon Redshift long-term system table retention with Amazon S3 Tables is now available in additional AWS Regions",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/redshift-long-term-system-table-retention-expansion/",
+   "date": "2026-10-15",
+   "domain": "Cloud Concepts"
+  },
+  {
+   "title": "AWS Security Hub CSPM now supports the Cyber Risk Institute profile version 2.2",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/security-hub-cspm-cri-profile-v22/",
+   "date": "2026-10-15",
+   "domain": "Security"
   },
   {
    "title": "AWS Transfer Family now supports AWS Secrets Manager storage for SFTP server host keys",
@@ -26,52 +74,16 @@
    "domain": "Security"
   },
   {
-   "title": "Amazon RDS Proxy now supports SQL Server 2022",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/rds-proxy-supports-sqlserver-2022",
-   "date": "2026-10-14",
-   "domain": "Technology"
-  },
-  {
-   "title": "Amazon S3 is now available on the Vercel Marketplace and v0 by Vercel",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-s3-vercel-marketplace-v0",
-   "date": "2026-10-14",
-   "domain": "Technology"
-  },
-  {
    "title": "AWS Security Hub now supports resource criticality for prioritization",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/security-hub-resource-criticality/",
    "date": "2026-10-14",
    "domain": "Security"
   },
   {
-   "title": "Amazon ECS adds LiveTaskCount and removes the charge for RunningTaskCount metric",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/ecs-service-metrics/",
-   "date": "2026-10-13",
-   "domain": "Technology"
-  },
-  {
-   "title": "AWS Lambda durable functions increases durable operation and checkpoint payload limits",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-durable-gen-limit-increase/",
-   "date": "2026-10-13",
-   "domain": "Technology"
-  },
-  {
-   "title": "Amazon EC2 G7 instances now available in Europe (Frankfurt) and Europe (Stockholm) Regions",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-g7-european-regions/",
-   "date": "2026-10-12",
-   "domain": "Cloud Concepts"
-  },
-  {
    "title": "Announcing consumption-based pricing for short-term memory in Amazon Bedrock AgentCore",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/agentcore-memory-consumption-based-pricing",
    "date": "2026-10-12",
    "domain": "Billing"
-  },
-  {
-   "title": "Amazon S3 Express One Zone is now available in 4 additional AWS Regions",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/s3-express-one-zone-4-additional-regions/",
-   "date": "2026-10-12",
-   "domain": "Cloud Concepts"
   },
   {
    "title": "AWS Secrets Manager adds managed external secrets support for Databricks and Twilio",
@@ -86,27 +98,9 @@
    "domain": "Security"
   },
   {
-   "title": "Amazon EC2 C9g, C9gd, M9g, and M9gd instances are now available in additional regions",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/ec2-c9g-m9g-instances-additional-regions/",
-   "date": "2026-10-09",
-   "domain": "Cloud Concepts"
-  },
-  {
    "title": "AWS Cost Explorer, Budgets, and Dashboards now support Amazon Bedrock product attributes",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-bedrock-attributes-in-cost-explorer/",
    "date": "2026-10-08",
-   "domain": "Billing"
-  },
-  {
-   "title": "Amazon GuardDuty RDS Protection now detects data exfiltration and destruction in Aurora and RDS databases",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/guardduty-rds-data-exfiltration/",
-   "date": "2026-10-08",
-   "domain": "Security"
-  },
-  {
-   "title": "AWS Budgets now supports email verification for notification subscribers",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-budgets/",
-   "date": "2026-10-01",
    "domain": "Billing"
   }
  ]

@@ -1,6 +1,36 @@
 {
- "updated": "2026-10-16",
+ "updated": "2026-10-17",
  "items": [
+  {
+   "title": "Amazon CloudWatch log centralization now available in AWS GovCloud and additional commercial Regions",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-cloudwatch-centralization-region-expansion",
+   "date": "2026-10-16",
+   "domain": "Cloud Concepts"
+  },
+  {
+   "title": "AWS Lambda durable functions are now available in AWS GovCloud (US) Regions",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/durablefunctions-govcloud/",
+   "date": "2026-10-16",
+   "domain": "Cloud Concepts"
+  },
+  {
+   "title": "Nemotron 3.5 Super VL model now available on Amazon SageMaker JumpStart",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/nvidia-nemotron-3.5-super-vl-on-sagemaker-jumpstart/",
+   "date": "2026-10-16",
+   "domain": "Technology"
+  },
+  {
+   "title": "Beam model by Reflection is now available on Amazon SageMaker JumpStart and AWS Trainium",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/reflection-beam-on-sagemaker-jumpstart-and-aws-trainium/",
+   "date": "2026-10-16",
+   "domain": "Technology"
+  },
+  {
+   "title": "Second-generation AWS Outposts racks now supported in the AWS Mexico (Central) Region",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-outposts-racks-mexico-central/",
+   "date": "2026-10-16",
+   "domain": "Cloud Concepts"
+  },
   {
    "title": "Web Search on Amazon Bedrock AgentCore expands to AWS GovCloud and 3 Regions",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-agentcore/",
@@ -26,38 +56,8 @@
    "domain": "Technology"
   },
   {
-   "title": "AWS Lambda Durable Execution SDK for Go is now generally available",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-durable-go-sdk-support/",
-   "date": "2026-10-15",
-   "domain": "Technology"
-  },
-  {
-   "title": "Muse Spark Open model now available on Amazon SageMaker JumpStart",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/muse-spark-open-on-sagemaker-jumpstart/",
-   "date": "2026-10-15",
-   "domain": "Technology"
-  },
-  {
    "title": "Amazon Time Sync Service adds support for microsecond-accurate time on 135 additional EC2 instance types in all commercial regions",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/time-sync-additional-instances-all-regions",
-   "date": "2026-10-15",
-   "domain": "Cloud Concepts"
-  },
-  {
-   "title": "AWS Transform for full-stack Windows modernization now supports Aurora PostgreSQL cross-region deployment in 7 more Regions",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transform-full-stack-aurora-cross-region",
-   "date": "2026-10-15",
-   "domain": "Cloud Concepts"
-  },
-  {
-   "title": "Amazon MSK Connect and AWS Glue Schema Registry are now available in the AWS European Sovereign Cloud (Germany) region",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-msk-connect-aws-gsr-additional-aws-regions",
-   "date": "2026-10-15",
-   "domain": "Cloud Concepts"
-  },
-  {
-   "title": "Amazon Redshift long-term system table retention with Amazon S3 Tables is now available in additional AWS Regions",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/redshift-long-term-system-table-retention-expansion/",
    "date": "2026-10-15",
    "domain": "Cloud Concepts"
   },

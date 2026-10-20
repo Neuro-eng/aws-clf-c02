@@ -1,6 +1,54 @@
 {
- "updated": "2026-10-19",
+ "updated": "2026-10-20",
  "items": [
+  {
+   "title": "Amazon Connect Customer Global Resiliency now provides business users visibility into resiliency readiness across linked Regions",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-global-resiliency-readiness-overview",
+   "date": "2026-10-19",
+   "domain": "Cloud Concepts"
+  },
+  {
+   "title": "Amazon CloudWatch Omni is now available in additional AWS Regions",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-cloudwatch-omni-8-regions/",
+   "date": "2026-10-19",
+   "domain": "Cloud Concepts"
+  },
+  {
+   "title": "EC2 Image Builder now integrates with ASG for faster image builds",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/ec2-image-builder-asg-faster-builds/",
+   "date": "2026-10-19",
+   "domain": "Technology"
+  },
+  {
+   "title": "Amazon GuardDuty adds optional threat detection rules for Runtime Monitoring",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/guardduty-runtime-optional-detection-rules/",
+   "date": "2026-10-19",
+   "domain": "Security"
+  },
+  {
+   "title": "Grok 4.7 is now available on Amazon Bedrock in AWS GovCloud (US)",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-grok-4-7-govcloud/",
+   "date": "2026-10-19",
+   "domain": "Technology"
+  },
+  {
+   "title": "AWS IAM Identity Center now supports optimistic locking for users and groups in its identity store",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/iam-identity-store-optimistic-locking/",
+   "date": "2026-10-19",
+   "domain": "Security"
+  },
+  {
+   "title": "Amazon RDS Custom now supports the latest Cumulative Update and GDR updates for Microsoft SQL Server",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-custom-supports-latest-cumulative-update-gdr-microsoft-sql-server/",
+   "date": "2026-10-19",
+   "domain": "Technology"
+  },
+  {
+   "title": "Amazon RDS for SQL Server now supports snapshots on read replicas",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/rds-sqlserver-supports-snapshots-on-read-replicas",
+   "date": "2026-10-19",
+   "domain": "Technology"
+  },
   {
    "title": "Amazon CloudWatch log centralization now available in AWS GovCloud and additional commercial Regions",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-cloudwatch-centralization-region-expansion",
@@ -20,45 +68,9 @@
    "domain": "Technology"
   },
   {
-   "title": "Beam model by Reflection is now available on Amazon SageMaker JumpStart and AWS Trainium",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/reflection-beam-on-sagemaker-jumpstart-and-aws-trainium/",
-   "date": "2026-10-16",
-   "domain": "Technology"
-  },
-  {
    "title": "Second-generation AWS Outposts racks now supported in the AWS Mexico (Central) Region",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-outposts-racks-mexico-central/",
    "date": "2026-10-16",
-   "domain": "Cloud Concepts"
-  },
-  {
-   "title": "Web Search on Amazon Bedrock AgentCore expands to AWS GovCloud and 3 Regions",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-agentcore/",
-   "date": "2026-10-15",
-   "domain": "Cloud Concepts"
-  },
-  {
-   "title": "Amazon SageMaker Studio simplifies getting started for new AI/ML builders with new sign-in options",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-studio-new-sign-in-options/",
-   "date": "2026-10-15",
-   "domain": "Technology"
-  },
-  {
-   "title": "Amazon EC2 T8i instances are now available in South America (São Paulo)",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/ec2-t8i-instances-south-america/",
-   "date": "2026-10-15",
-   "domain": "Technology"
-  },
-  {
-   "title": "Amazon DynamoDB Streams now supports timestamp-based stream processing",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-dynamodb-streams-timestamp-processing",
-   "date": "2026-10-15",
-   "domain": "Technology"
-  },
-  {
-   "title": "Amazon Time Sync Service adds support for microsecond-accurate time on 135 additional EC2 instance types in all commercial regions",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/time-sync-additional-instances-all-regions",
-   "date": "2026-10-15",
    "domain": "Cloud Concepts"
   },
   {
@@ -84,18 +96,6 @@
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/agentcore-memory-consumption-based-pricing",
    "date": "2026-10-12",
    "domain": "Billing"
-  },
-  {
-   "title": "AWS Secrets Manager adds managed external secrets support for Databricks and Twilio",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/secrets-manager-managed-external-secrets-databricks-twilio/",
-   "date": "2026-10-12",
-   "domain": "Security"
-  },
-  {
-   "title": "AWS Security Hub now exports findings to S3 in CSV or JSON format",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/security-hub-exports-s3-csv-json/",
-   "date": "2026-10-09",
-   "domain": "Security"
   },
   {
    "title": "AWS Cost Explorer, Budgets, and Dashboards now support Amazon Bedrock product attributes",

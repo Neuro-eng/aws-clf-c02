@@ -1,22 +1,46 @@
 {
- "updated": "2026-10-21",
+ "updated": "2026-10-22",
  "items": [
   {
-   "title": "Announcing Amazon ECS Gateway, a managed ingress solution for your ECS services",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/announcing-amazon-ecs-gateway/",
-   "date": "2026-10-20",
+   "title": "AWS Transform adds storage migration assessments for Amazon S3, EBS, EFS, and FSx",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/transform-assess-s3-ebs-efs-fsx/",
+   "date": "2026-10-21",
    "domain": "Technology"
   },
   {
-   "title": "Amazon DynamoDB global tables now support disassociating replicas",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/dynamodb-global-tables-disassociate/",
-   "date": "2026-10-20",
+   "title": "AWS Direct Connect announces 100G expansion in Manchester, England",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-direct-connect-100g-manchester/",
+   "date": "2026-10-21",
    "domain": "Technology"
   },
   {
-   "title": "Structured outputs for Claude models available on Amazon Bedrock",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/claude-structured-outputs-bedrock/",
-   "date": "2026-10-20",
+   "title": "Amazon Aurora and Amazon RDS now support On-Demand Capacity Reservations",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-aurora-rds-on-demand-capacity-reservations/",
+   "date": "2026-10-21",
+   "domain": "Technology"
+  },
+  {
+   "title": "Amazon Cognito extends multi-Region replication to AWS GovCloud (US) Regions",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/cognito-multi-region-us-govcloud/",
+   "date": "2026-10-21",
+   "domain": "Security"
+  },
+  {
+   "title": "Beam model by Reflection is now available on Amazon SageMaker JumpStart and AWS Trainium",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/reflection-beam-on-sagemaker-jumpstart-and-aws-trainium/",
+   "date": "2026-10-21",
+   "domain": "Technology"
+  },
+  {
+   "title": "Amazon S3 server access log delivery to Amazon CloudWatch Logs now available in five additional AWS Regions",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-s3-server-access-logs-cloudwatch-logs-regions/",
+   "date": "2026-10-21",
+   "domain": "Cloud Concepts"
+  },
+  {
+   "title": "Amazon SageMaker AI now supports custom sequence lengths for serverless model customization jobs",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-custom-sequence-lengths/",
+   "date": "2026-10-21",
    "domain": "Technology"
   },
   {
@@ -24,18 +48,6 @@
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/iam-identity-center-chg-id-src-from-ad/",
    "date": "2026-10-20",
    "domain": "Security"
-  },
-  {
-   "title": "Amazon Bedrock Guardrails now supports Standard tier for contextual grounding checks",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-guardrails-grounding-standard/",
-   "date": "2026-10-20",
-   "domain": "Technology"
-  },
-  {
-   "title": "Amazon Bedrock Advanced Prompt Optimization now supports prompt shortening",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-prompt-optimization-shortening/",
-   "date": "2026-10-20",
-   "domain": "Technology"
   },
   {
    "title": "Amazon Connect Customer Global Resiliency now provides business users visibility into resiliency readiness across linked Regions",
@@ -74,21 +86,9 @@
    "domain": "Cloud Concepts"
   },
   {
-   "title": "Second-generation AWS Outposts racks now supported in the AWS Mexico (Central) Region",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-outposts-racks-mexico-central/",
-   "date": "2026-10-16",
-   "domain": "Cloud Concepts"
-  },
-  {
    "title": "AWS Security Hub CSPM now supports the Cyber Risk Institute profile version 2.2",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/security-hub-cspm-cri-profile-v22/",
    "date": "2026-10-15",
-   "domain": "Security"
-  },
-  {
-   "title": "AWS Transfer Family now supports AWS Secrets Manager storage for SFTP server host keys",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/transfer-family-secrets-host-keys/",
-   "date": "2026-10-14",
    "domain": "Security"
   },
   {

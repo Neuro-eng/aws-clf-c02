@@ -1,23 +1,47 @@
 {
- "updated": "2026-10-22",
+ "updated": "2026-10-23",
  "items": [
   {
-   "title": "AWS Transform adds storage migration assessments for Amazon S3, EBS, EFS, and FSx",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/transform-assess-s3-ebs-efs-fsx/",
-   "date": "2026-10-21",
+   "title": "AWS CloudFormation now simplifies stack update rollback operations",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-cloudformation-cdk/",
+   "date": "2026-10-22",
    "domain": "Technology"
   },
   {
-   "title": "AWS Direct Connect announces 100G expansion in Manchester, England",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-direct-connect-100g-manchester/",
-   "date": "2026-10-21",
+   "title": "Amazon SageMaker AI announces training session APIs for serverless model customization",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/training-session-apis-on-sagemaker-ai",
+   "date": "2026-10-22",
    "domain": "Technology"
   },
   {
-   "title": "Amazon Aurora and Amazon RDS now support On-Demand Capacity Reservations",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-aurora-rds-on-demand-capacity-reservations/",
-   "date": "2026-10-21",
+   "title": "AWS Direct Connect announces 100G expansion in Bangalore, India",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-direct-connect-100g-bangalore/",
+   "date": "2026-10-22",
    "domain": "Technology"
+  },
+  {
+   "title": "Amazon SageMaker AI now supports serverless model customization for Muse Glimmer, Qwen 3.8 and Ministral 3 models",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-sagemaker-muse-qwen-ministral/",
+   "date": "2026-10-22",
+   "domain": "Technology"
+  },
+  {
+   "title": "AgentCore Gateway now supports Bedrock InvokeModel APIs and model fallback",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/agentcore-gateway-invokemodel-fallback/",
+   "date": "2026-10-22",
+   "domain": "Technology"
+  },
+  {
+   "title": "AWS Lambda MicroVMs is now available in 4 additional AWS regions",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/lambda-microvms-4-additional-regions",
+   "date": "2026-10-22",
+   "domain": "Cloud Concepts"
+  },
+  {
+   "title": "Amazon Quick Now Available in the AWS Singapore Region",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-quick-now-available-in-the-aws-singapore-region/",
+   "date": "2026-10-22",
+   "domain": "Cloud Concepts"
   },
   {
    "title": "Amazon Cognito extends multi-Region replication to AWS GovCloud (US) Regions",
@@ -26,22 +50,10 @@
    "domain": "Security"
   },
   {
-   "title": "Beam model by Reflection is now available on Amazon SageMaker JumpStart and AWS Trainium",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/reflection-beam-on-sagemaker-jumpstart-and-aws-trainium/",
-   "date": "2026-10-21",
-   "domain": "Technology"
-  },
-  {
    "title": "Amazon S3 server access log delivery to Amazon CloudWatch Logs now available in five additional AWS Regions",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-s3-server-access-logs-cloudwatch-logs-regions/",
    "date": "2026-10-21",
    "domain": "Cloud Concepts"
-  },
-  {
-   "title": "Amazon SageMaker AI now supports custom sequence lengths for serverless model customization jobs",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-custom-sequence-lengths/",
-   "date": "2026-10-21",
-   "domain": "Technology"
   },
   {
    "title": "AWS IAM Identity Center simplifies identity source changes from Active Directory",
@@ -74,28 +86,10 @@
    "domain": "Security"
   },
   {
-   "title": "Amazon CloudWatch log centralization now available in AWS GovCloud and additional commercial Regions",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-cloudwatch-centralization-region-expansion",
-   "date": "2026-10-16",
-   "domain": "Cloud Concepts"
-  },
-  {
-   "title": "AWS Lambda durable functions are now available in AWS GovCloud (US) Regions",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/durablefunctions-govcloud/",
-   "date": "2026-10-16",
-   "domain": "Cloud Concepts"
-  },
-  {
    "title": "AWS Security Hub CSPM now supports the Cyber Risk Institute profile version 2.2",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/security-hub-cspm-cri-profile-v22/",
    "date": "2026-10-15",
    "domain": "Security"
-  },
-  {
-   "title": "Announcing consumption-based pricing for short-term memory in Amazon Bedrock AgentCore",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/agentcore-memory-consumption-based-pricing",
-   "date": "2026-10-12",
-   "domain": "Billing"
   }
  ]
 }

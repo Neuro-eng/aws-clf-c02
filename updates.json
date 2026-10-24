@@ -1,6 +1,36 @@
 {
- "updated": "2026-10-23",
+ "updated": "2026-10-24",
  "items": [
+  {
+   "title": "Web Search on AWS Bedrock now supports domain filtering and user location controls",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-web-search-domain-user-location/",
+   "date": "2026-10-23",
+   "domain": "Technology"
+  },
+  {
+   "title": "Amazon Connect Customer Global Resiliency now supports persistent chat across linked AWS Regions",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-global-resiliency-persistent-chat",
+   "date": "2026-10-23",
+   "domain": "Cloud Concepts"
+  },
+  {
+   "title": "Amazon MWAA now available in Mexico (Central) Region",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-mwaa-mexico-central/",
+   "date": "2026-10-23",
+   "domain": "Cloud Concepts"
+  },
+  {
+   "title": "Amazon EMR on EKS reduces EMR charge by 30 percent",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/emr-eks-reduces-emr-charge-30-percent/",
+   "date": "2026-10-23",
+   "domain": "Technology"
+  },
+  {
+   "title": "Amazon OpenSearch Service introduces intelligent ingestion for logs and documents in Amazon S3",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-opensearch-intelligent-ingestion-logs-documents-s3",
+   "date": "2026-10-22",
+   "domain": "Technology"
+  },
   {
    "title": "AWS CloudFormation now simplifies stack update rollback operations",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-cloudformation-cdk/",
@@ -10,24 +40,6 @@
   {
    "title": "Amazon SageMaker AI announces training session APIs for serverless model customization",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/training-session-apis-on-sagemaker-ai",
-   "date": "2026-10-22",
-   "domain": "Technology"
-  },
-  {
-   "title": "AWS Direct Connect announces 100G expansion in Bangalore, India",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-direct-connect-100g-bangalore/",
-   "date": "2026-10-22",
-   "domain": "Technology"
-  },
-  {
-   "title": "Amazon SageMaker AI now supports serverless model customization for Muse Glimmer, Qwen 3.8 and Ministral 3 models",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-sagemaker-muse-qwen-ministral/",
-   "date": "2026-10-22",
-   "domain": "Technology"
-  },
-  {
-   "title": "AgentCore Gateway now supports Bedrock InvokeModel APIs and model fallback",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/agentcore-gateway-invokemodel-fallback/",
    "date": "2026-10-22",
    "domain": "Technology"
   },
@@ -60,18 +72,6 @@
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/iam-identity-center-chg-id-src-from-ad/",
    "date": "2026-10-20",
    "domain": "Security"
-  },
-  {
-   "title": "Amazon Connect Customer Global Resiliency now provides business users visibility into resiliency readiness across linked Regions",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-global-resiliency-readiness-overview",
-   "date": "2026-10-19",
-   "domain": "Cloud Concepts"
-  },
-  {
-   "title": "Amazon CloudWatch Omni is now available in additional AWS Regions",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-cloudwatch-omni-8-regions/",
-   "date": "2026-10-19",
-   "domain": "Cloud Concepts"
   },
   {
    "title": "Amazon GuardDuty adds optional threat detection rules for Runtime Monitoring",

@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-24",
+ "updated": "2026-10-25",
  "items": [
   {
-   "title": "Web Search on AWS Bedrock now supports domain filtering and user location controls",
+   "title": "Web Search on Amazon Bedrock now supports domain filtering and user location controls",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-web-search-domain-user-location/",
    "date": "2026-10-23",
    "domain": "Technology"
@@ -14,16 +14,16 @@
    "domain": "Cloud Concepts"
   },
   {
-   "title": "Amazon MWAA now available in Mexico (Central) Region",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-mwaa-mexico-central/",
-   "date": "2026-10-23",
-   "domain": "Cloud Concepts"
-  },
-  {
    "title": "Amazon EMR on EKS reduces EMR charge by 30 percent",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/emr-eks-reduces-emr-charge-30-percent/",
    "date": "2026-10-23",
    "domain": "Technology"
+  },
+  {
+   "title": "Amazon MWAA now available in Mexico (Central) Region",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-mwaa-mexico-central/",
+   "date": "2026-10-23",
+   "domain": "Cloud Concepts"
   },
   {
    "title": "Amazon OpenSearch Service introduces intelligent ingestion for logs and documents in Amazon S3",

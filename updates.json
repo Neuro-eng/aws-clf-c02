@@ -1,10 +1,46 @@
 {
- "updated": "2026-10-26",
+ "updated": "2026-10-27",
  "items": [
   {
-   "title": "Web Search on Amazon Bedrock now supports domain filtering and user location controls",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-web-search-domain-user-location/",
-   "date": "2026-10-23",
+   "title": "OpenAI GPT-6.1 Terra is now generally available on Amazon Bedrock",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/openai-gpt-6-1-terra-on-amazon-bedrock/",
+   "date": "2026-10-26",
+   "domain": "Technology"
+  },
+  {
+   "title": "Amazon SageMaker Unified Studio adds light mode support for IDC-based domains",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/smus-light-mode",
+   "date": "2026-10-26",
+   "domain": "Technology"
+  },
+  {
+   "title": "AWS IAM Identity Center now supports cross-Region trusted identity propagation",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-iam-identity-center-cross-region-tip/",
+   "date": "2026-10-26",
+   "domain": "Security"
+  },
+  {
+   "title": "AWS Key Management Service now supports ML-KEM for post-quantum key encapsulation",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/kms-ml-kem-post-quantum/",
+   "date": "2026-10-26",
+   "domain": "Security"
+  },
+  {
+   "title": "AWS EC2 Auto Scaling now supports Launch Before Terminate at account-level to replace instances",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/ec2-auto-scaling-launch-before-terminate/",
+   "date": "2026-10-26",
+   "domain": "Technology"
+  },
+  {
+   "title": "Amazon RDS now supports the latest Cumulative Update and GDR updates for Microsoft SQL Server",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-supports-latest-cumulative-update-gdr-microsoft-sql-server/",
+   "date": "2026-10-26",
+   "domain": "Technology"
+  },
+  {
+   "title": "AWS Glue Data Catalog now supports OAuth for Apache Iceberg REST Catalog APIs",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/glue-catalog-oauth-iceberg-rest/",
+   "date": "2026-10-26",
    "domain": "Technology"
   },
   {
@@ -14,34 +50,10 @@
    "domain": "Cloud Concepts"
   },
   {
-   "title": "Amazon EMR on EKS reduces EMR charge by 30 percent",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/emr-eks-reduces-emr-charge-30-percent/",
-   "date": "2026-10-23",
-   "domain": "Technology"
-  },
-  {
    "title": "Amazon MWAA now available in Mexico (Central) Region",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-mwaa-mexico-central/",
    "date": "2026-10-23",
    "domain": "Cloud Concepts"
-  },
-  {
-   "title": "Amazon OpenSearch Service introduces intelligent ingestion for logs and documents in Amazon S3",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-opensearch-intelligent-ingestion-logs-documents-s3",
-   "date": "2026-10-22",
-   "domain": "Technology"
-  },
-  {
-   "title": "AWS CloudFormation now simplifies stack update rollback operations",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-cloudformation-cdk/",
-   "date": "2026-10-22",
-   "domain": "Technology"
-  },
-  {
-   "title": "Amazon SageMaker AI announces training session APIs for serverless model customization",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/training-session-apis-on-sagemaker-ai",
-   "date": "2026-10-22",
-   "domain": "Technology"
   },
   {
    "title": "AWS Lambda MicroVMs is now available in 4 additional AWS regions",
@@ -77,18 +89,6 @@
    "title": "Amazon GuardDuty adds optional threat detection rules for Runtime Monitoring",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/guardduty-runtime-optional-detection-rules/",
    "date": "2026-10-19",
-   "domain": "Security"
-  },
-  {
-   "title": "AWS IAM Identity Center now supports optimistic locking for users and groups in its identity store",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/iam-identity-store-optimistic-locking/",
-   "date": "2026-10-19",
-   "domain": "Security"
-  },
-  {
-   "title": "AWS Security Hub CSPM now supports the Cyber Risk Institute profile version 2.2",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/security-hub-cspm-cri-profile-v22/",
-   "date": "2026-10-15",
    "domain": "Security"
   }
  ]

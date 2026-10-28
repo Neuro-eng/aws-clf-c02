@@ -1,15 +1,33 @@
 {
- "updated": "2026-10-27",
+ "updated": "2026-10-28",
  "items": [
   {
-   "title": "OpenAI GPT-6.1 Terra is now generally available on Amazon Bedrock",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/openai-gpt-6-1-terra-on-amazon-bedrock/",
-   "date": "2026-10-26",
+   "title": "Amazon ECS now supports GPU sharing with NVIDIA Multi-Process Service (MPS)",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ecs-gpu-sharing-nvidia-mps/",
+   "date": "2026-10-27",
    "domain": "Technology"
   },
   {
-   "title": "Amazon SageMaker Unified Studio adds light mode support for IDC-based domains",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/smus-light-mode",
+   "title": "SageMaker MLflow Apps now support MLflow 3.16",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/mflow-version-3-16/",
+   "date": "2026-10-27",
+   "domain": "Technology"
+  },
+  {
+   "title": "Amazon Aurora serverless now supports up to 384 ACUs",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-serverless-supports-384-acu/",
+   "date": "2026-10-27",
+   "domain": "Technology"
+  },
+  {
+   "title": "Amazon ElastiCache for Valkey now supports changing durability on existing clusters",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/elasticache-changing-durability/",
+   "date": "2026-10-27",
+   "domain": "Technology"
+  },
+  {
+   "title": "OpenAI GPT-6.1 Terra is now generally available on Amazon Bedrock",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/openai-gpt-6-1-terra-on-amazon-bedrock/",
    "date": "2026-10-26",
    "domain": "Technology"
   },
@@ -24,24 +42,6 @@
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/kms-ml-kem-post-quantum/",
    "date": "2026-10-26",
    "domain": "Security"
-  },
-  {
-   "title": "AWS EC2 Auto Scaling now supports Launch Before Terminate at account-level to replace instances",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/ec2-auto-scaling-launch-before-terminate/",
-   "date": "2026-10-26",
-   "domain": "Technology"
-  },
-  {
-   "title": "Amazon RDS now supports the latest Cumulative Update and GDR updates for Microsoft SQL Server",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-supports-latest-cumulative-update-gdr-microsoft-sql-server/",
-   "date": "2026-10-26",
-   "domain": "Technology"
-  },
-  {
-   "title": "AWS Glue Data Catalog now supports OAuth for Apache Iceberg REST Catalog APIs",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/glue-catalog-oauth-iceberg-rest/",
-   "date": "2026-10-26",
-   "domain": "Technology"
   },
   {
    "title": "Amazon Connect Customer Global Resiliency now supports persistent chat across linked AWS Regions",

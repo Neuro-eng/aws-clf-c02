@@ -1,35 +1,41 @@
 {
- "updated": "2026-10-28",
+ "updated": "2026-10-29",
  "items": [
   {
-   "title": "Amazon ECS now supports GPU sharing with NVIDIA Multi-Process Service (MPS)",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ecs-gpu-sharing-nvidia-mps/",
-   "date": "2026-10-27",
+   "title": "Amazon RDS for Oracle now supports September 2026 Monthly Recommended Patch",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-oracle-september-mrp",
+   "date": "2026-10-28",
    "domain": "Technology"
   },
   {
-   "title": "SageMaker MLflow Apps now support MLflow 3.16",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/mflow-version-3-16/",
-   "date": "2026-10-27",
+   "title": "Amazon Bedrock AgentCore CLI version 1.0 is now available",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-agentcore-cli-version-1-0-available/",
+   "date": "2026-10-28",
    "domain": "Technology"
   },
   {
-   "title": "Amazon Aurora serverless now supports up to 384 ACUs",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-serverless-supports-384-acu/",
-   "date": "2026-10-27",
+   "title": "AWS Lambda supports Seekable OCI (SOCI) lazy loading for Lambda Managed Instances",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-seekable-oci-soci/",
+   "date": "2026-10-28",
    "domain": "Technology"
   },
   {
-   "title": "Amazon ElastiCache for Valkey now supports changing durability on existing clusters",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/elasticache-changing-durability/",
-   "date": "2026-10-27",
+   "title": "Amazon EKS Dashboard now provides fleet-wide visibility into certificate authority (CA) rotation",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-eks-dashboard-fleet-wide-visibility-certificate-authority-ca-rotation/",
+   "date": "2026-10-28",
    "domain": "Technology"
   },
   {
-   "title": "OpenAI GPT-6.1 Terra is now generally available on Amazon Bedrock",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/openai-gpt-6-1-terra-on-amazon-bedrock/",
-   "date": "2026-10-26",
+   "title": "Amazon ECS Managed Instances adds cross-instance and Spot consolidation",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/ecs-managed-instances-consolidation/",
+   "date": "2026-10-28",
    "domain": "Technology"
+  },
+  {
+   "title": "AWS IAM Identity Center's Identity Store now supports change notifications through Amazon EventBridge",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-identity-store-change-notifications/",
+   "date": "2026-10-28",
+   "domain": "Security"
   },
   {
    "title": "AWS IAM Identity Center now supports cross-Region trusted identity propagation",
@@ -83,12 +89,6 @@
    "title": "AWS IAM Identity Center simplifies identity source changes from Active Directory",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/iam-identity-center-chg-id-src-from-ad/",
    "date": "2026-10-20",
-   "domain": "Security"
-  },
-  {
-   "title": "Amazon GuardDuty adds optional threat detection rules for Runtime Monitoring",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/guardduty-runtime-optional-detection-rules/",
-   "date": "2026-10-19",
    "domain": "Security"
   }
  ]

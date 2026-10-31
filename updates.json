@@ -1,15 +1,51 @@
 {
- "updated": "2026-10-30",
+ "updated": "2026-10-31",
  "items": [
   {
-   "title": "Amazon RDS for Oracle and SQL Server now support storage autoscaling on additional storage volumes",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-oracle-sqlserver-autoscaling-additional-storage-volumes",
-   "date": "2026-10-29",
+   "title": "Amazon Bedrock expands API support and introduces Cross-Region Inferencing for OpenAI models in AWS GovCloud (US)",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-openai-runtime-govcloud/",
+   "date": "2026-10-30",
+   "domain": "Cloud Concepts"
+  },
+  {
+   "title": "Daybreak Red from OpenAI now available to eligible customers on Amazon Bedrock in AWS GovCloud (US-East)",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/openai-daybreak-red-govcloud-east/",
+   "date": "2026-10-30",
    "domain": "Technology"
   },
   {
-   "title": "Amazon Aurora now supports post-quantum TLS key exchange",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-postgresql-post-quantum-tls-key-exchange/",
+   "title": "Amazon CloudFront now provides viewer ISP and post-quantum TLS details",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/cloudfront-viewer-isp-post-quantum-visbility/",
+   "date": "2026-10-30",
+   "domain": "Technology"
+  },
+  {
+   "title": "Amazon RDS for Oracle no longer requires automatic minor version upgrades for JVM, Spatial, Locator, and OLAP options",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/oracle-jvm-spatial-locator-olap-options-amvu-optional/",
+   "date": "2026-10-30",
+   "domain": "Technology"
+  },
+  {
+   "title": "AWS WAF announces automatic SDK integration for Amazon CloudFront distributions",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-waf-automatic-sdk-integration-amazon-cloudfront/",
+   "date": "2026-10-30",
+   "domain": "Security"
+  },
+  {
+   "title": "AWS Glue Data Catalog now supports Apache Iceberg table optimization in the US West (N. California) Region",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/glue-data-catalog-optimizers-us-west-1/",
+   "date": "2026-10-30",
+   "domain": "Cloud Concepts"
+  },
+  {
+   "title": "Amazon SageMaker AI inference now supports GPU partitioning for real-time endpoints",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-gpu-partitioning/",
+   "date": "2026-10-30",
+   "domain": "Technology"
+  },
+  {
+   "title": "Amazon RDS for Oracle and SQL Server now support storage autoscaling on additional storage volumes",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-oracle-sqlserver-autoscaling-additional-storage-volumes",
    "date": "2026-10-29",
    "domain": "Technology"
   },
@@ -20,16 +56,10 @@
    "domain": "Cloud Concepts"
   },
   {
-   "title": "AWS DataSync Enhanced mode now supports Amazon FSx for Windows File Server, FSx for NetApp ONTAP, and Red Hat OpenShift Virtualization",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/datasync-enhanced-fsx-openshift/",
+   "title": "Amazon Redshift announces hands-off automated cross-region backups",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/redshift-automated-cross-region-backups/",
    "date": "2026-10-29",
-   "domain": "Technology"
-  },
-  {
-   "title": "Amazon SageMaker AI now supports SOCI-indexed images to start training jobs in seconds",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-ai-soci-images-training/",
-   "date": "2026-10-29",
-   "domain": "Technology"
+   "domain": "Cloud Concepts"
   },
   {
    "title": "AWS Backup now supports cross-account management and cross-account backup in the AWS European Sovereign Cloud",
@@ -38,28 +68,10 @@
    "domain": "Cloud Concepts"
   },
   {
-   "title": "Amazon RDS for Oracle now supports September 2026 Monthly Recommended Patch",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-oracle-september-mrp",
-   "date": "2026-10-28",
-   "domain": "Technology"
-  },
-  {
-   "title": "AWS Agent Registry is now available in four additional AWS Regions",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-agent-registry-four-regions/",
-   "date": "2026-10-28",
-   "domain": "Cloud Concepts"
-  },
-  {
    "title": "AWS IAM Identity Center's Identity Store now supports change notifications through Amazon EventBridge",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-identity-store-change-notifications/",
    "date": "2026-10-28",
    "domain": "Security"
-  },
-  {
-   "title": "Amazon Bedrock now offers Canada cross-Region inference for Claude Haiku 5.5",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/claude-haiku-5-5-canada-cris/",
-   "date": "2026-10-27",
-   "domain": "Cloud Concepts"
   },
   {
    "title": "AWS Key Management Service now supports ML-KEM for post-quantum key encapsulation",
@@ -74,21 +86,9 @@
    "domain": "Security"
   },
   {
-   "title": "Amazon Connect Customer Global Resiliency now supports persistent chat across linked AWS Regions",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-global-resiliency-persistent-chat",
-   "date": "2026-10-23",
-   "domain": "Cloud Concepts"
-  },
-  {
    "title": "Amazon Cognito extends multi-Region replication to AWS GovCloud (US) Regions",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/cognito-multi-region-us-govcloud/",
    "date": "2026-10-21",
-   "domain": "Security"
-  },
-  {
-   "title": "AWS IAM Identity Center simplifies identity source changes from Active Directory",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/iam-identity-center-chg-id-src-from-ad/",
-   "date": "2026-10-20",
    "domain": "Security"
   }
  ]

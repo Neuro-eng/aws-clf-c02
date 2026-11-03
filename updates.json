@@ -1,6 +1,48 @@
 {
- "updated": "2026-11-02",
+ "updated": "2026-11-03",
  "items": [
+  {
+   "title": "Amazon RDS for Oracle now supports M8i and R8i instances in additional AWS Regions",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-m8i-r8i-instances-new-regions/",
+   "date": "2026-11-03",
+   "domain": "Cloud Concepts"
+  },
+  {
+   "title": "Amazon RDS now supports per snapshot billing",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-per-snapshot-billing/",
+   "date": "2026-11-02",
+   "domain": "Billing"
+  },
+  {
+   "title": "Amazon Aurora MySQL 8.4.10 is now generally available",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-aurora-mysql-8410-available/",
+   "date": "2026-11-02",
+   "domain": "Technology"
+  },
+  {
+   "title": "AWS Lambda now supports queues for Apache Kafka in self-managed Kafka event sources",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-queue-kafka-esm/",
+   "date": "2026-11-02",
+   "domain": "Technology"
+  },
+  {
+   "title": "Amazon Aurora MySQL 3.14 (compatible with MySQL 8.0.46) is generally available",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-aurora-mysql-314-available/",
+   "date": "2026-11-02",
+   "domain": "Technology"
+  },
+  {
+   "title": "EC2 Amazon Machine Images can now be scanned for vulnerabilities through Amazon Inspector",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-amis-scanned-through-inspector/",
+   "date": "2026-11-02",
+   "domain": "Security"
+  },
+  {
+   "title": "Amazon CloudFront now supports self-service increases in AWS Service Quotas",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudfront-self-service-quotas/",
+   "date": "2026-11-02",
+   "domain": "Technology"
+  },
   {
    "title": "Amazon Bedrock expands API support and introduces Cross-Region Inferencing for OpenAI models in AWS GovCloud (US)",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-openai-runtime-govcloud/",
@@ -10,18 +52,6 @@
   {
    "title": "Daybreak Red from OpenAI now available to eligible customers on Amazon Bedrock in AWS GovCloud (US-East)",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/openai-daybreak-red-govcloud-east/",
-   "date": "2026-10-30",
-   "domain": "Technology"
-  },
-  {
-   "title": "Amazon CloudFront now provides viewer ISP and post-quantum TLS details",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/cloudfront-viewer-isp-post-quantum-visbility/",
-   "date": "2026-10-30",
-   "domain": "Technology"
-  },
-  {
-   "title": "Amazon RDS for Oracle no longer requires automatic minor version upgrades for JVM, Spatial, Locator, and OLAP options",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/oracle-jvm-spatial-locator-olap-options-amvu-optional/",
    "date": "2026-10-30",
    "domain": "Technology"
   },
@@ -38,18 +68,6 @@
    "domain": "Cloud Concepts"
   },
   {
-   "title": "Amazon SageMaker AI inference now supports GPU partitioning for real-time endpoints",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-gpu-partitioning/",
-   "date": "2026-10-30",
-   "domain": "Technology"
-  },
-  {
-   "title": "Amazon RDS for Oracle and SQL Server now support storage autoscaling on additional storage volumes",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-oracle-sqlserver-autoscaling-additional-storage-volumes",
-   "date": "2026-10-29",
-   "domain": "Technology"
-  },
-  {
    "title": "Amazon DynamoDB Accelerator (DAX) is now available in additional Regions",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/dax-additional-regions/",
    "date": "2026-10-29",
@@ -58,12 +76,6 @@
   {
    "title": "Amazon Redshift announces hands-off automated cross-region backups",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/redshift-automated-cross-region-backups/",
-   "date": "2026-10-29",
-   "domain": "Cloud Concepts"
-  },
-  {
-   "title": "AWS Backup now supports cross-account management and cross-account backup in the AWS European Sovereign Cloud",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-backup-cross-account-esc/",
    "date": "2026-10-29",
    "domain": "Cloud Concepts"
   },
@@ -83,12 +95,6 @@
    "title": "AWS IAM Identity Center now supports cross-Region trusted identity propagation",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-iam-identity-center-cross-region-tip/",
    "date": "2026-10-26",
-   "domain": "Security"
-  },
-  {
-   "title": "Amazon Cognito extends multi-Region replication to AWS GovCloud (US) Regions",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/cognito-multi-region-us-govcloud/",
-   "date": "2026-10-21",
    "domain": "Security"
   }
  ]

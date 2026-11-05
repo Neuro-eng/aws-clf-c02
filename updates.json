@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-04",
+ "updated": "2026-11-05",
  "items": [
+  {
+   "title": "Amazon ECS Managed Daemons can now collect json-file logs from application containers on Amazon ECS Managed Instances",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ecs-managed-instances-json-file-log-driver/",
+   "date": "2026-11-04",
+   "domain": "Technology"
+  },
+  {
+   "title": "Amazon DocumentDB (with MongoDB compatibility) is now available in the Asia Pacific (Taipei) and Asia Pacific (New Zealand) Regions",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-documentdb-mongodb-compatibility-asia-pacific-taipei-new-zealand-regions/",
+   "date": "2026-11-04",
+   "domain": "Cloud Concepts"
+  },
+  {
+   "title": "Amazon RDS for Oracle now supports copying option groups during cross-Region snapshot copy",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-oracle-cross-region-snapshot-copy-option-group/",
+   "date": "2026-11-04",
+   "domain": "Cloud Concepts"
+  },
+  {
+   "title": "Amazon EC2 and VPC now display related resources for all resource types",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-vpc-related-resources-all-types/",
+   "date": "2026-11-04",
+   "domain": "Technology"
+  },
+  {
+   "title": "Amazon S3 Tables now provide a simple, cost-effective path for data lake modernization",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-tables-managed-migration-hive-to-iceberg/",
+   "date": "2026-11-04",
+   "domain": "Technology"
+  },
+  {
+   "title": "New features for Amazon EC2 Capacity Manager",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-capacity-manager-supportability-and-fulfillment/",
+   "date": "2026-11-04",
+   "domain": "Technology"
+  },
   {
    "title": "AWS Config now supports 10 new resource types",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-config-new-resource-types",
@@ -10,12 +46,6 @@
   {
    "title": "Amazon RDS now supports the latest Cumulative Update and GDR updates for Microsoft SQL Server",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-supports-latest-cumulative-update-gdr-microsoft-sql-server/",
-   "date": "2026-11-03",
-   "domain": "Technology"
-  },
-  {
-   "title": "Amazon EKS Capabilities now supports Argo CD Notifications",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-argo-cd-notifications",
    "date": "2026-11-03",
    "domain": "Technology"
   },
@@ -30,24 +60,6 @@
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-per-snapshot-billing/",
    "date": "2026-11-02",
    "domain": "Billing"
-  },
-  {
-   "title": "Amazon Aurora MySQL 8.4.10 is now generally available",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-aurora-mysql-8410-available/",
-   "date": "2026-11-02",
-   "domain": "Technology"
-  },
-  {
-   "title": "AWS Lambda now supports queues for Apache Kafka in self-managed Kafka event sources",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-queue-kafka-esm/",
-   "date": "2026-11-02",
-   "domain": "Technology"
-  },
-  {
-   "title": "Amazon Aurora MySQL 3.14 (compatible with MySQL 8.0.46) is generally available",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-aurora-mysql-314-available/",
-   "date": "2026-11-02",
-   "domain": "Technology"
   },
   {
    "title": "EC2 Amazon Machine Images can now be scanned for vulnerabilities through Amazon Inspector",
@@ -71,18 +83,6 @@
    "title": "AWS Glue Data Catalog now supports Apache Iceberg table optimization in the US West (N. California) Region",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/glue-data-catalog-optimizers-us-west-1/",
    "date": "2026-10-30",
-   "domain": "Cloud Concepts"
-  },
-  {
-   "title": "Amazon DynamoDB Accelerator (DAX) is now available in additional Regions",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/dax-additional-regions/",
-   "date": "2026-10-29",
-   "domain": "Cloud Concepts"
-  },
-  {
-   "title": "Amazon Redshift announces hands-off automated cross-region backups",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/redshift-automated-cross-region-backups/",
-   "date": "2026-10-29",
    "domain": "Cloud Concepts"
   },
   {

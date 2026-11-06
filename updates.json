@@ -1,11 +1,77 @@
 {
- "updated": "2026-11-05",
+ "updated": "2026-11-06",
  "items": [
   {
-   "title": "Amazon ECS Managed Daemons can now collect json-file logs from application containers on Amazon ECS Managed Instances",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ecs-managed-instances-json-file-log-driver/",
-   "date": "2026-11-04",
+   "title": "AWS Security Hub now provides an SBOM inventory for your compute resources",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-sbom-inventory/",
+   "date": "2026-11-06",
+   "domain": "Security"
+  },
+  {
+   "title": "Announcing Web Answer on Amazon Bedrock AgentCore",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/web-answer-amazon-bedrock/",
+   "date": "2026-11-05",
    "domain": "Technology"
+  },
+  {
+   "title": "AWS Network Load Balancer is now available in the AWS Phoenix Local Zone",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-nlb-available-phx-local-zone/",
+   "date": "2026-11-05",
+   "domain": "Cloud Concepts"
+  },
+  {
+   "title": "Amazon DynamoDB now supports bulk put items",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-dynamodb-now-supports-bulk-put-items/",
+   "date": "2026-11-05",
+   "domain": "Technology"
+  },
+  {
+   "title": "Amazon Cognito announces 99.99% Service Level Agreement for the Plus feature plan",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cognito-sla-update/",
+   "date": "2026-11-05",
+   "domain": "Security"
+  },
+  {
+   "title": "IAM Roles Anywhere now supports automatic certificate revocation checking",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/iam-roles-anywhere-cdp/",
+   "date": "2026-11-05",
+   "domain": "Security"
+  },
+  {
+   "title": "Amazon FSx for Lustre delivers 16x higher metadata IOPS on Intelligent-Tiering file systems",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-fsx-for-lustre-intelligent-tiering-16x-higher-metadata-iops",
+   "date": "2026-11-05",
+   "domain": "Technology"
+  },
+  {
+   "title": "Amazon RDS for Oracle now supports Kerberos authentication with self-managed Active Directory",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-kerberos-self-managed-ad/",
+   "date": "2026-11-05",
+   "domain": "Technology"
+  },
+  {
+   "title": "AWS Security Hub Network Scanning now available in AWS GovCloud (US)",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-network-scanning-govcloud/",
+   "date": "2026-11-05",
+   "domain": "Security"
+  },
+  {
+   "title": "AWS Lambda durable functions increases default execution and API quotas",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-durable-functions-default-quotas/",
+   "date": "2026-11-05",
+   "domain": "Technology"
+  },
+  {
+   "title": "AWS CodeConnections is now available in the AWS GovCloud (US-West) Region",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-codeconnections-govcloud-west/",
+   "date": "2026-11-05",
+   "domain": "Cloud Concepts"
+  },
+  {
+   "title": "Amazon SageMaker AI Studio Now Supports IAM Identity Center Multi-Region Replication",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sagemaker-ai-studio-iam/",
+   "date": "2026-11-05",
+   "domain": "Security"
   },
   {
    "title": "Amazon DocumentDB (with MongoDB compatibility) is now available in the Asia Pacific (Taipei) and Asia Pacific (New Zealand) Regions",
@@ -20,36 +86,6 @@
    "domain": "Cloud Concepts"
   },
   {
-   "title": "Amazon EC2 and VPC now display related resources for all resource types",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-vpc-related-resources-all-types/",
-   "date": "2026-11-04",
-   "domain": "Technology"
-  },
-  {
-   "title": "Amazon S3 Tables now provide a simple, cost-effective path for data lake modernization",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-tables-managed-migration-hive-to-iceberg/",
-   "date": "2026-11-04",
-   "domain": "Technology"
-  },
-  {
-   "title": "New features for Amazon EC2 Capacity Manager",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-capacity-manager-supportability-and-fulfillment/",
-   "date": "2026-11-04",
-   "domain": "Technology"
-  },
-  {
-   "title": "AWS Config now supports 10 new resource types",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-config-new-resource-types",
-   "date": "2026-11-03",
-   "domain": "Security"
-  },
-  {
-   "title": "Amazon RDS now supports the latest Cumulative Update and GDR updates for Microsoft SQL Server",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-supports-latest-cumulative-update-gdr-microsoft-sql-server/",
-   "date": "2026-11-03",
-   "domain": "Technology"
-  },
-  {
    "title": "Amazon RDS for Oracle now supports M8i and R8i instances in additional AWS Regions",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-m8i-r8i-instances-new-regions/",
    "date": "2026-11-03",
@@ -60,42 +96,6 @@
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-per-snapshot-billing/",
    "date": "2026-11-02",
    "domain": "Billing"
-  },
-  {
-   "title": "EC2 Amazon Machine Images can now be scanned for vulnerabilities through Amazon Inspector",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-amis-scanned-through-inspector/",
-   "date": "2026-11-02",
-   "domain": "Security"
-  },
-  {
-   "title": "Amazon Bedrock expands API support and introduces Cross-Region Inferencing for OpenAI models in AWS GovCloud (US)",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-openai-runtime-govcloud/",
-   "date": "2026-10-30",
-   "domain": "Cloud Concepts"
-  },
-  {
-   "title": "AWS WAF announces automatic SDK integration for Amazon CloudFront distributions",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-waf-automatic-sdk-integration-amazon-cloudfront/",
-   "date": "2026-10-30",
-   "domain": "Security"
-  },
-  {
-   "title": "AWS Glue Data Catalog now supports Apache Iceberg table optimization in the US West (N. California) Region",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/glue-data-catalog-optimizers-us-west-1/",
-   "date": "2026-10-30",
-   "domain": "Cloud Concepts"
-  },
-  {
-   "title": "AWS IAM Identity Center's Identity Store now supports change notifications through Amazon EventBridge",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-identity-store-change-notifications/",
-   "date": "2026-10-28",
-   "domain": "Security"
-  },
-  {
-   "title": "AWS Key Management Service now supports ML-KEM for post-quantum key encapsulation",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/kms-ml-kem-post-quantum/",
-   "date": "2026-10-26",
-   "domain": "Security"
   }
  ]
 }

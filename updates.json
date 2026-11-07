@@ -1,6 +1,54 @@
 {
- "updated": "2026-11-06",
+ "updated": "2026-11-07",
  "items": [
+  {
+   "title": "Kimi K3.1 Pro (Highspeed) now available on Amazon Bedrock",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/moonshot-ai-kimi-k3-1-pro-on-amazon-bedrock",
+   "date": "2026-11-06",
+   "domain": "Technology"
+  },
+  {
+   "title": "Agent Registry is now generally available in AWS GovCloud (US-West) Region",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-agent-registry-govcloud-us-west/",
+   "date": "2026-11-06",
+   "domain": "Cloud Concepts"
+  },
+  {
+   "title": "Amazon MSK Replicator is now available in AWS GovCloud (US-East, US-West) Regions",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-msk-replicator-additional-aws-regions",
+   "date": "2026-11-06",
+   "domain": "Cloud Concepts"
+  },
+  {
+   "title": "Amazon Redshift expands SUPER data type to store strings up to 16 million bytes",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-redshift-expands-super-to-16-million-bytes/",
+   "date": "2026-11-06",
+   "domain": "Technology"
+  },
+  {
+   "title": "AWS launches support for amortization of EC2 Capacity Blocks for ML",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-ec2-capacity-blocks-ml/",
+   "date": "2026-11-06",
+   "domain": "Technology"
+  },
+  {
+   "title": "Capacity Reservation Resource Groups now support Amazon EC2 Capacity Blocks and interruptible Capacity Reservations in AWS GovCloud (US) Regions",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/capacity-reservation-resource-groups-support-in-aws-govcloud-regions",
+   "date": "2026-11-06",
+   "domain": "Cloud Concepts"
+  },
+  {
+   "title": "Amazon Simple Email Service is now available in six new AWS Regions",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-simple-email-service-new-aws-regions/",
+   "date": "2026-11-06",
+   "domain": "Cloud Concepts"
+  },
+  {
+   "title": "AWS Glue Data Catalog now supports catalog-vended credentials with Apache Iceberg REST catalog federation",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/glue-catalog-vended-credentials-iceberg/",
+   "date": "2026-11-06",
+   "domain": "Technology"
+  },
   {
    "title": "AWS Security Hub now provides an SBOM inventory for your compute resources",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-sbom-inventory/",
@@ -20,12 +68,6 @@
    "domain": "Cloud Concepts"
   },
   {
-   "title": "Amazon DynamoDB now supports bulk put items",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-dynamodb-now-supports-bulk-put-items/",
-   "date": "2026-11-05",
-   "domain": "Technology"
-  },
-  {
    "title": "Amazon Cognito announces 99.99% Service Level Agreement for the Plus feature plan",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cognito-sla-update/",
    "date": "2026-11-05",
@@ -38,58 +80,16 @@
    "domain": "Security"
   },
   {
-   "title": "Amazon FSx for Lustre delivers 16x higher metadata IOPS on Intelligent-Tiering file systems",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-fsx-for-lustre-intelligent-tiering-16x-higher-metadata-iops",
-   "date": "2026-11-05",
-   "domain": "Technology"
-  },
-  {
-   "title": "Amazon RDS for Oracle now supports Kerberos authentication with self-managed Active Directory",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-kerberos-self-managed-ad/",
-   "date": "2026-11-05",
-   "domain": "Technology"
-  },
-  {
    "title": "AWS Security Hub Network Scanning now available in AWS GovCloud (US)",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-network-scanning-govcloud/",
    "date": "2026-11-05",
    "domain": "Security"
   },
   {
-   "title": "AWS Lambda durable functions increases default execution and API quotas",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-durable-functions-default-quotas/",
-   "date": "2026-11-05",
-   "domain": "Technology"
-  },
-  {
-   "title": "AWS CodeConnections is now available in the AWS GovCloud (US-West) Region",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-codeconnections-govcloud-west/",
-   "date": "2026-11-05",
-   "domain": "Cloud Concepts"
-  },
-  {
    "title": "Amazon SageMaker AI Studio Now Supports IAM Identity Center Multi-Region Replication",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sagemaker-ai-studio-iam/",
    "date": "2026-11-05",
    "domain": "Security"
-  },
-  {
-   "title": "Amazon DocumentDB (with MongoDB compatibility) is now available in the Asia Pacific (Taipei) and Asia Pacific (New Zealand) Regions",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-documentdb-mongodb-compatibility-asia-pacific-taipei-new-zealand-regions/",
-   "date": "2026-11-04",
-   "domain": "Cloud Concepts"
-  },
-  {
-   "title": "Amazon RDS for Oracle now supports copying option groups during cross-Region snapshot copy",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-oracle-cross-region-snapshot-copy-option-group/",
-   "date": "2026-11-04",
-   "domain": "Cloud Concepts"
-  },
-  {
-   "title": "Amazon RDS for Oracle now supports M8i and R8i instances in additional AWS Regions",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-m8i-r8i-instances-new-regions/",
-   "date": "2026-11-03",
-   "domain": "Cloud Concepts"
   },
   {
    "title": "Amazon RDS now supports per snapshot billing",

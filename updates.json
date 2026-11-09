@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08",
+ "updated": "2026-11-09",
  "items": [
   {
    "title": "Kimi K3.1 Pro (Highspeed) now available on Amazon Bedrock",
@@ -38,16 +38,16 @@
    "domain": "Cloud Concepts"
   },
   {
-   "title": "Amazon Simple Email Service is now available in six new AWS Regions",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-simple-email-service-new-aws-regions/",
-   "date": "2026-11-06",
-   "domain": "Cloud Concepts"
-  },
-  {
    "title": "AWS Glue Data Catalog now supports catalog-vended credentials with Apache Iceberg REST catalog federation",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/glue-catalog-vended-credentials-iceberg/",
    "date": "2026-11-06",
    "domain": "Technology"
+  },
+  {
+   "title": "Amazon Simple Email Service is now available in six new AWS Regions",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-simple-email-service-new-aws-regions/",
+   "date": "2026-11-06",
+   "domain": "Cloud Concepts"
   },
   {
    "title": "AWS Security Hub now provides an SBOM inventory for your compute resources",

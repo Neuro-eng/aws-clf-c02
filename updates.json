@@ -1,10 +1,40 @@
 {
- "updated": "2026-11-09",
+ "updated": "2026-11-10",
  "items": [
   {
-   "title": "Kimi K3.1 Pro (Highspeed) now available on Amazon Bedrock",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/moonshot-ai-kimi-k3-1-pro-on-amazon-bedrock",
-   "date": "2026-11-06",
+   "title": "Amazon Bedrock AgentCore now offers a Web Search API",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-web-search-api/",
+   "date": "2026-11-10",
+   "domain": "Technology"
+  },
+  {
+   "title": "AWS Glue adds 100 new native connectors for popular SaaS applications",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-glue-adds-100-new-native-connectors/",
+   "date": "2026-11-09",
+   "domain": "Technology"
+  },
+  {
+   "title": "Amazon Bedrock now offers Claude Mythos 5.2 to Eligible Customers in AWS GovCloud (US)",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/bedrock-claude-mythos-5-2-govcloud/",
+   "date": "2026-11-09",
+   "domain": "Technology"
+  },
+  {
+   "title": "Amazon Athena introduces system tables for observability, auditing, and usage analytics",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/athena-system-tables/",
+   "date": "2026-11-09",
+   "domain": "Technology"
+  },
+  {
+   "title": "Amazon S3 Access Points for Amazon FSx are now available in additional AWS Regions",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/s3-access-points-fsx-regions/",
+   "date": "2026-11-09",
+   "domain": "Cloud Concepts"
+  },
+  {
+   "title": "Introducing AWS Nitro Sandboxes on Amazon EKS, ECS and EC2 for hardware isolated pods, tasks and VMs",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/nitro-sandboxes-eks-ecs-ec2/",
+   "date": "2026-11-09",
    "domain": "Technology"
   },
   {
@@ -20,28 +50,10 @@
    "domain": "Cloud Concepts"
   },
   {
-   "title": "Amazon Redshift expands SUPER data type to store strings up to 16 million bytes",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-redshift-expands-super-to-16-million-bytes/",
-   "date": "2026-11-06",
-   "domain": "Technology"
-  },
-  {
-   "title": "AWS launches support for amortization of EC2 Capacity Blocks for ML",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-ec2-capacity-blocks-ml/",
-   "date": "2026-11-06",
-   "domain": "Technology"
-  },
-  {
    "title": "Capacity Reservation Resource Groups now support Amazon EC2 Capacity Blocks and interruptible Capacity Reservations in AWS GovCloud (US) Regions",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/capacity-reservation-resource-groups-support-in-aws-govcloud-regions",
    "date": "2026-11-06",
    "domain": "Cloud Concepts"
-  },
-  {
-   "title": "AWS Glue Data Catalog now supports catalog-vended credentials with Apache Iceberg REST catalog federation",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/glue-catalog-vended-credentials-iceberg/",
-   "date": "2026-11-06",
-   "domain": "Technology"
   },
   {
    "title": "Amazon Simple Email Service is now available in six new AWS Regions",
@@ -54,18 +66,6 @@
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-sbom-inventory/",
    "date": "2026-11-06",
    "domain": "Security"
-  },
-  {
-   "title": "Announcing Web Answer on Amazon Bedrock AgentCore",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/web-answer-amazon-bedrock/",
-   "date": "2026-11-05",
-   "domain": "Technology"
-  },
-  {
-   "title": "AWS Network Load Balancer is now available in the AWS Phoenix Local Zone",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-nlb-available-phx-local-zone/",
-   "date": "2026-11-05",
-   "domain": "Cloud Concepts"
   },
   {
    "title": "Amazon Cognito announces 99.99% Service Level Agreement for the Plus feature plan",

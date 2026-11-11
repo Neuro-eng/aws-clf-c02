@@ -1,28 +1,52 @@
 {
- "updated": "2026-11-10",
+ "updated": "2026-11-11",
  "items": [
   {
-   "title": "Amazon Bedrock AgentCore now offers a Web Search API",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-web-search-api/",
+   "title": "AWS Billing and Cost Management now supports AWS Billing Conductor and AWS Billing Transfer views as source views for custom billing views",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-billing-and-cost-management-multi-source-custom-billing-views",
+   "date": "2026-11-10",
+   "domain": "Billing"
+  },
+  {
+   "title": "Amazon EC2 G7 instances now available in additional regions",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-g7-additional-regions/",
+   "date": "2026-11-10",
+   "domain": "Cloud Concepts"
+  },
+  {
+   "title": "Amazon OpenSearch Service announces managed cross-Region disaster recovery",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-service-managed-cross-region-disaster-recovery/",
+   "date": "2026-11-10",
+   "domain": "Cloud Concepts"
+  },
+  {
+   "title": "Amazon RDS for MySQL 26.10 is now available in Amazon RDS Database Preview Environment",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-mysql-26-10-preview-environment/",
    "date": "2026-11-10",
    "domain": "Technology"
   },
   {
-   "title": "AWS Glue adds 100 new native connectors for popular SaaS applications",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-glue-adds-100-new-native-connectors/",
-   "date": "2026-11-09",
+   "title": "Amazon RDS for PostgreSQL announces Extended Support minor versions 13.23-rds.20260819, 12.22-rds.20260820 and 11.22-rds.20260822",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-postgresql-extended-support/",
+   "date": "2026-11-10",
    "domain": "Technology"
   },
   {
-   "title": "Amazon Bedrock now offers Claude Mythos 5.2 to Eligible Customers in AWS GovCloud (US)",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/bedrock-claude-mythos-5-2-govcloud/",
-   "date": "2026-11-09",
+   "title": "Amazon S3 Access Grants now support listing grants across multiple AWS accounts",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-access-grants-list-across-regions/",
+   "date": "2026-11-10",
    "domain": "Technology"
   },
   {
-   "title": "Amazon Athena introduces system tables for observability, auditing, and usage analytics",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/athena-system-tables/",
-   "date": "2026-11-09",
+   "title": "Amazon Bedrock adds bedrock-runtime endpoint support for Daybreak models",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/openai-gpt-daybreak-on-amazon-bedrock-runtime/",
+   "date": "2026-11-10",
+   "domain": "Technology"
+  },
+  {
+   "title": "Amazon S3 Tables now support S3 server access logging",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-tables-server-access-logging/",
+   "date": "2026-11-10",
    "domain": "Technology"
   },
   {
@@ -30,12 +54,6 @@
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/s3-access-points-fsx-regions/",
    "date": "2026-11-09",
    "domain": "Cloud Concepts"
-  },
-  {
-   "title": "Introducing AWS Nitro Sandboxes on Amazon EKS, ECS and EC2 for hardware isolated pods, tasks and VMs",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/nitro-sandboxes-eks-ecs-ec2/",
-   "date": "2026-11-09",
-   "domain": "Technology"
   },
   {
    "title": "Agent Registry is now generally available in AWS GovCloud (US-West) Region",
@@ -46,18 +64,6 @@
   {
    "title": "Amazon MSK Replicator is now available in AWS GovCloud (US-East, US-West) Regions",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-msk-replicator-additional-aws-regions",
-   "date": "2026-11-06",
-   "domain": "Cloud Concepts"
-  },
-  {
-   "title": "Capacity Reservation Resource Groups now support Amazon EC2 Capacity Blocks and interruptible Capacity Reservations in AWS GovCloud (US) Regions",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/capacity-reservation-resource-groups-support-in-aws-govcloud-regions",
-   "date": "2026-11-06",
-   "domain": "Cloud Concepts"
-  },
-  {
-   "title": "Amazon Simple Email Service is now available in six new AWS Regions",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-simple-email-service-new-aws-regions/",
    "date": "2026-11-06",
    "domain": "Cloud Concepts"
   },

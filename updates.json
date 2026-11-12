@@ -1,6 +1,48 @@
 {
- "updated": "2026-11-11",
+ "updated": "2026-11-12",
  "items": [
+  {
+   "title": "Ornith-1.0-9B and Ornith-1.0-35B models now available on Amazon SageMaker JumpStart",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/ornith-1-0-9b-ornith-1-0-35b-on-sagemaker-jumpstart/",
+   "date": "2026-11-11",
+   "domain": "Technology"
+  },
+  {
+   "title": "DeepSeek-V4-Pro, DeepSeek-V4-Flash, and DeepSeek-V4.1-Flash models now available on Amazon SageMaker JumpStart",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/deepseek-v4-pro-v4-flash-v4.1-flash-on-sagemaker-jumpstart/",
+   "date": "2026-11-11",
+   "domain": "Technology"
+  },
+  {
+   "title": "AWS Network Security Manager now available in AWS European Sovereign Cloud and Additional New Regions",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/network-security-mgr-eu-sovereign-cloud/",
+   "date": "2026-11-11",
+   "domain": "Cloud Concepts"
+  },
+  {
+   "title": "Amazon EKS Provisioned Control Plane now offers a 24 GB etcd database on 4XL and 8XL tiers",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-provisioned-control-plane-larger-etcd-database/",
+   "date": "2026-11-11",
+   "domain": "Technology"
+  },
+  {
+   "title": "Amazon Cognito now supports user pool session management",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cognito-session-management/",
+   "date": "2026-11-11",
+   "domain": "Security"
+  },
+  {
+   "title": "AWS Lambda MicroVMs now supports the x86 CPU architecture",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-microvms-x86-architecture/",
+   "date": "2026-11-11",
+   "domain": "Technology"
+  },
+  {
+   "title": "Amazon EKS Auto Mode now supports security groups for Pods",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-auto-mode-security-groups-for-pods/",
+   "date": "2026-11-11",
+   "domain": "Technology"
+  },
   {
    "title": "AWS Billing and Cost Management now supports AWS Billing Conductor and AWS Billing Transfer views as source views for custom billing views",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-billing-and-cost-management-multi-source-custom-billing-views",
@@ -20,36 +62,6 @@
    "domain": "Cloud Concepts"
   },
   {
-   "title": "Amazon RDS for MySQL 26.10 is now available in Amazon RDS Database Preview Environment",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-mysql-26-10-preview-environment/",
-   "date": "2026-11-10",
-   "domain": "Technology"
-  },
-  {
-   "title": "Amazon RDS for PostgreSQL announces Extended Support minor versions 13.23-rds.20260819, 12.22-rds.20260820 and 11.22-rds.20260822",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-postgresql-extended-support/",
-   "date": "2026-11-10",
-   "domain": "Technology"
-  },
-  {
-   "title": "Amazon S3 Access Grants now support listing grants across multiple AWS accounts",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-access-grants-list-across-regions/",
-   "date": "2026-11-10",
-   "domain": "Technology"
-  },
-  {
-   "title": "Amazon Bedrock adds bedrock-runtime endpoint support for Daybreak models",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/openai-gpt-daybreak-on-amazon-bedrock-runtime/",
-   "date": "2026-11-10",
-   "domain": "Technology"
-  },
-  {
-   "title": "Amazon S3 Tables now support S3 server access logging",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-tables-server-access-logging/",
-   "date": "2026-11-10",
-   "domain": "Technology"
-  },
-  {
    "title": "Amazon S3 Access Points for Amazon FSx are now available in additional AWS Regions",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/s3-access-points-fsx-regions/",
    "date": "2026-11-09",
@@ -58,12 +70,6 @@
   {
    "title": "Agent Registry is now generally available in AWS GovCloud (US-West) Region",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-agent-registry-govcloud-us-west/",
-   "date": "2026-11-06",
-   "domain": "Cloud Concepts"
-  },
-  {
-   "title": "Amazon MSK Replicator is now available in AWS GovCloud (US-East, US-West) Regions",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-msk-replicator-additional-aws-regions",
    "date": "2026-11-06",
    "domain": "Cloud Concepts"
   },
@@ -88,12 +94,6 @@
   {
    "title": "AWS Security Hub Network Scanning now available in AWS GovCloud (US)",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-network-scanning-govcloud/",
-   "date": "2026-11-05",
-   "domain": "Security"
-  },
-  {
-   "title": "Amazon SageMaker AI Studio Now Supports IAM Identity Center Multi-Region Replication",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sagemaker-ai-studio-iam/",
    "date": "2026-11-05",
    "domain": "Security"
   },

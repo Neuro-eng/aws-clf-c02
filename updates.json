@@ -1,59 +1,77 @@
 {
- "updated": "2026-11-16",
+ "updated": "2026-11-17",
  "items": [
   {
-   "title": "Aurora PostgreSQL with express configuration now supported in CloudFormation",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-postgresql-cloudformation/",
-   "date": "2026-11-13",
-   "domain": "Technology"
+   "title": "Amazon ECR now replicates image deletions across regions and accounts",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/replication-deletes-amazon-ecr",
+   "date": "2026-11-16",
+   "domain": "Cloud Concepts"
   },
   {
-   "title": "Amazon RDS for Oracle reduces downtime for automatic minor version upgrades and scheduled maintenance",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-reduces-maintenance-downtime-for-amvu-scheduled-upgrades/",
-   "date": "2026-11-13",
-   "domain": "Technology"
-  },
-  {
-   "title": "AWS Security Hub CSPM now supports centralized configuration with AWS Organizations declarative policies",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-cspm-org-policies/",
-   "date": "2026-11-13",
+   "title": "Amazon EBS now supports associating additional KMS keys with snapshots",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ebs-snapshots-associate-kms-keys/",
+   "date": "2026-11-16",
    "domain": "Security"
   },
   {
-   "title": "Amazon Bedrock AgentCore Identity now supports OAuth 2.0 discovery URLs",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/bedrock-agentcore-oauth2-discovery/",
-   "date": "2026-11-13",
+   "title": "Amazon S3 Vectors now supports hybrid search combining vector and full text for more relevant search results",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/s3-vectors-hybrid-search/",
+   "date": "2026-11-16",
    "domain": "Technology"
   },
   {
-   "title": "AWS Batch on Amazon EKS adds Linux capabilities, seccomp, and pod-level settings",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-batch-eks-security-context/",
-   "date": "2026-11-13",
+   "title": "Amazon Redshift now supports multi-statement transactions, conflict resolution, and time travel for Apache Iceberg",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/redshift-time-travel-multi-statement",
+   "date": "2026-11-16",
    "domain": "Technology"
   },
   {
-   "title": "AWS Secrets Manager now supports cross-account replication",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/secrets-manager-cross-account/",
-   "date": "2026-11-13",
+   "title": "AWS KMS now supports key sharing with AWS Resource Access Manager",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/kms-key-sharing-resource-access-manager/",
+   "date": "2026-11-16",
    "domain": "Security"
   },
   {
-   "title": "Amazon SageMaker Unified Studio now supports layout customization for designations",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-studio-layout-customization/",
-   "date": "2026-11-13",
+   "title": "AWS Secrets Manager adds managed external secrets support for Auth0, Okta, and Palo Alto Networks",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/secrets-manager-managed-external-secrets-auth0-okta-palo-alto/",
+   "date": "2026-11-16",
+   "domain": "Security"
+  },
+  {
+   "title": "IAM Identity Center now supports VPC endpoints and network access controls",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/iam-identity-center-vpc-endpoints/",
+   "date": "2026-11-16",
+   "domain": "Security"
+  },
+  {
+   "title": "Amazon SageMaker AI now supports KV cache-aware routing for real-time inference endpoints",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-kv-cache-routing/",
+   "date": "2026-11-16",
    "domain": "Technology"
   },
   {
-   "title": "Amazon Cognito now supports OAuth 2.0 token exchange",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-token-exchange/",
-   "date": "2026-11-12",
+   "title": "AWS Backup adds logically air-gapped vault support for Amazon RDS",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-backup-air-gapped-vault-rds/",
+   "date": "2026-11-16",
+   "domain": "Technology"
+  },
+  {
+   "title": "AWS WAF advanced rate-based rules are now available in AWS GovCloud (US), Thailand, and Mexico",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/waf-advanced-rate-rules-available/",
+   "date": "2026-11-16",
    "domain": "Security"
   },
   {
-   "title": "Amazon MWAA now supports fine-grained access control with IAM Identity Center and multi-team environments",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/mwaa-fine-grained-access-control/",
-   "date": "2026-11-12",
-   "domain": "Security"
+   "title": "AWS announces Networking Flexible Cost Allocation for Amazon VPC",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/networking-flexible-cost-allocation/",
+   "date": "2026-11-16",
+   "domain": "Technology"
+  },
+  {
+   "title": "AgentCore runtime instances are now available in six more AWS Regions",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/agentcore-aws-regions/",
+   "date": "2026-11-16",
+   "domain": "Cloud Concepts"
   },
   {
    "title": "Amazon SNS now supports push notifications in four additional AWS Regions",
@@ -68,12 +86,6 @@
    "domain": "Cloud Concepts"
   },
   {
-   "title": "Amazon Cognito now supports user pool session management",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cognito-session-management/",
-   "date": "2026-11-11",
-   "domain": "Security"
-  },
-  {
    "title": "AWS Billing and Cost Management now supports AWS Billing Conductor and AWS Billing Transfer views as source views for custom billing views",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-billing-and-cost-management-multi-source-custom-billing-views",
    "date": "2026-11-10",
@@ -83,18 +95,6 @@
    "title": "Amazon EC2 G7 instances now available in additional regions",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-g7-additional-regions/",
    "date": "2026-11-10",
-   "domain": "Cloud Concepts"
-  },
-  {
-   "title": "Amazon OpenSearch Service announces managed cross-Region disaster recovery",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-service-managed-cross-region-disaster-recovery/",
-   "date": "2026-11-10",
-   "domain": "Cloud Concepts"
-  },
-  {
-   "title": "Amazon S3 Access Points for Amazon FSx are now available in additional AWS Regions",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/s3-access-points-fsx-regions/",
-   "date": "2026-11-09",
    "domain": "Cloud Concepts"
   }
  ]

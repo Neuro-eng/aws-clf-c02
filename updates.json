@@ -1,100 +1,106 @@
 {
- "updated": "2026-11-17",
+ "updated": "2026-11-18",
  "items": [
+  {
+   "title": "Amazon EC2 C8gn instances are now available in AWS Israel (Tel Aviv) region",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c8gn/",
+   "date": "2026-11-17",
+   "domain": "Cloud Concepts"
+  },
+  {
+   "title": "Amazon EC2 C8ine instances are now available in AWS Europe (Ireland) region",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c8ine",
+   "date": "2026-11-17",
+   "domain": "Cloud Concepts"
+  },
+  {
+   "title": "AWS Security Hub now infers resource criticality from installed software and usage",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-resource-criticality/",
+   "date": "2026-11-17",
+   "domain": "Security"
+  },
+  {
+   "title": "Amazon API Gateway REST APIs now support JWT authorizers",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-rest-authorizers-jwt/",
+   "date": "2026-11-17",
+   "domain": "Technology"
+  },
+  {
+   "title": "Amazon Bedrock AgentCore Memory now supports short-term memory retention of up to 10 years",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-memory-10-year-retention",
+   "date": "2026-11-17",
+   "domain": "Technology"
+  },
+  {
+   "title": "Amazon Bedrock AgentCore Memory now provides full session summaries",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-memory-full-session-summaries",
+   "date": "2026-11-17",
+   "domain": "Technology"
+  },
+  {
+   "title": "Amazon SageMaker now supports AI data preparation capabilities to build high-quality datasets for model development",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-ai-data-prep-capabilities/",
+   "date": "2026-11-17",
+   "domain": "Technology"
+  },
+  {
+   "title": "AWS Lambda now supports scale to and from zero for Lambda Managed Instances",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-managed-instances-scale-to-zero/",
+   "date": "2026-11-17",
+   "domain": "Technology"
+  },
+  {
+   "title": "Amazon OpenSearch UI is now available in the Africa (Cape Town) Region",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/opensearch-ui-available-africa-cape-town-region",
+   "date": "2026-11-17",
+   "domain": "Cloud Concepts"
+  },
+  {
+   "title": "AWS Config announces managed conformance packs",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-config-managed-conformance-packs",
+   "date": "2026-11-17",
+   "domain": "Security"
+  },
+  {
+   "title": "Amazon VPC, AWS Transit Gateway, and AWS Cloud WAN now offer a 99.999% availability SLA for cross-Region traffic",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/vpc-tgw-cloudwan-99999-sla/",
+   "date": "2026-11-17",
+   "domain": "Cloud Concepts"
+  },
+  {
+   "title": "Amazon S3 now provides post-quantum TLS visibility in AWS CloudTrail",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-post-quantum-tls-aws-cloudtrail/",
+   "date": "2026-11-17",
+   "domain": "Security"
+  },
+  {
+   "title": "AWS Security Hub extends unified security management to Google Cloud Platform",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-gcp/",
+   "date": "2026-11-17",
+   "domain": "Security"
+  },
+  {
+   "title": "AWS announces consistent sharing controls for credits, Savings Plans, and Reserved Instances",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-benefits-sharing-capabilities/",
+   "date": "2026-11-17",
+   "domain": "Billing"
+  },
+  {
+   "title": "AWS IAM announces Access Troubleshooter to debug access denied errors",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/iam-access-troubleshooter/",
+   "date": "2026-11-17",
+   "domain": "Security"
+  },
+  {
+   "title": "Cost Optimization Hub now supports stopping idle Amazon EC2 instances",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cost-hub-stop-idle-ec2/",
+   "date": "2026-11-17",
+   "domain": "Billing"
+  },
   {
    "title": "Amazon ECR now replicates image deletions across regions and accounts",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/replication-deletes-amazon-ecr",
    "date": "2026-11-16",
-   "domain": "Cloud Concepts"
-  },
-  {
-   "title": "Amazon EBS now supports associating additional KMS keys with snapshots",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ebs-snapshots-associate-kms-keys/",
-   "date": "2026-11-16",
-   "domain": "Security"
-  },
-  {
-   "title": "Amazon S3 Vectors now supports hybrid search combining vector and full text for more relevant search results",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/s3-vectors-hybrid-search/",
-   "date": "2026-11-16",
-   "domain": "Technology"
-  },
-  {
-   "title": "Amazon Redshift now supports multi-statement transactions, conflict resolution, and time travel for Apache Iceberg",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/redshift-time-travel-multi-statement",
-   "date": "2026-11-16",
-   "domain": "Technology"
-  },
-  {
-   "title": "AWS KMS now supports key sharing with AWS Resource Access Manager",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/kms-key-sharing-resource-access-manager/",
-   "date": "2026-11-16",
-   "domain": "Security"
-  },
-  {
-   "title": "AWS Secrets Manager adds managed external secrets support for Auth0, Okta, and Palo Alto Networks",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/secrets-manager-managed-external-secrets-auth0-okta-palo-alto/",
-   "date": "2026-11-16",
-   "domain": "Security"
-  },
-  {
-   "title": "IAM Identity Center now supports VPC endpoints and network access controls",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/iam-identity-center-vpc-endpoints/",
-   "date": "2026-11-16",
-   "domain": "Security"
-  },
-  {
-   "title": "Amazon SageMaker AI now supports KV cache-aware routing for real-time inference endpoints",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-kv-cache-routing/",
-   "date": "2026-11-16",
-   "domain": "Technology"
-  },
-  {
-   "title": "AWS Backup adds logically air-gapped vault support for Amazon RDS",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-backup-air-gapped-vault-rds/",
-   "date": "2026-11-16",
-   "domain": "Technology"
-  },
-  {
-   "title": "AWS WAF advanced rate-based rules are now available in AWS GovCloud (US), Thailand, and Mexico",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/waf-advanced-rate-rules-available/",
-   "date": "2026-11-16",
-   "domain": "Security"
-  },
-  {
-   "title": "AWS announces Networking Flexible Cost Allocation for Amazon VPC",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/networking-flexible-cost-allocation/",
-   "date": "2026-11-16",
-   "domain": "Technology"
-  },
-  {
-   "title": "AgentCore runtime instances are now available in six more AWS Regions",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/agentcore-aws-regions/",
-   "date": "2026-11-16",
-   "domain": "Cloud Concepts"
-  },
-  {
-   "title": "Amazon SNS now supports push notifications in four additional AWS Regions",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sns-push-four-regions/",
-   "date": "2026-11-12",
-   "domain": "Cloud Concepts"
-  },
-  {
-   "title": "AWS Network Security Manager now available in AWS European Sovereign Cloud and Additional New Regions",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/network-security-mgr-eu-sovereign-cloud/",
-   "date": "2026-11-11",
-   "domain": "Cloud Concepts"
-  },
-  {
-   "title": "AWS Billing and Cost Management now supports AWS Billing Conductor and AWS Billing Transfer views as source views for custom billing views",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-billing-and-cost-management-multi-source-custom-billing-views",
-   "date": "2026-11-10",
-   "domain": "Billing"
-  },
-  {
-   "title": "Amazon EC2 G7 instances now available in additional regions",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-g7-additional-regions/",
-   "date": "2026-11-10",
    "domain": "Cloud Concepts"
   }
  ]

@@ -1,6 +1,60 @@
 {
- "updated": "2026-11-18",
+ "updated": "2026-11-19",
  "items": [
+  {
+   "title": "Introducing the Apache Spark Optimization Agent for AWS Glue ETL",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/apache-spark-aws-glue-etl/",
+   "date": "2026-11-18",
+   "domain": "Technology"
+  },
+  {
+   "title": "Amazon SageMaker AI now supports cross-Region inference routing",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-cross-region-routing/",
+   "date": "2026-11-18",
+   "domain": "Cloud Concepts"
+  },
+  {
+   "title": "Amazon CloudFront standard logging now supports CMCD and additional log fields",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudfront-standard-logging-cmcd-fields",
+   "date": "2026-11-18",
+   "domain": "Technology"
+  },
+  {
+   "title": "Amazon CloudFront Announces WebSocket and gRPC Support for Origin Mutual TLS",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudfront-origin-mtls-websockets-grpc/",
+   "date": "2026-11-18",
+   "domain": "Technology"
+  },
+  {
+   "title": "AWS Lambda adds support for GPU instances on Lambda Managed Instances",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-gpu-managed-instances/",
+   "date": "2026-11-18",
+   "domain": "Technology"
+  },
+  {
+   "title": "Amazon RDS for MySQL supports MySQL minor version 8.4.13",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-mysql-8413-available/",
+   "date": "2026-11-18",
+   "domain": "Technology"
+  },
+  {
+   "title": "Amazon Cognito now supports point-in-time recovery",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-point-in-time-recovery/",
+   "date": "2026-11-18",
+   "domain": "Security"
+  },
+  {
+   "title": "AWS IAM account access manager is now even easier to deploy and use",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/iam-account-access-manager-easier/",
+   "date": "2026-11-18",
+   "domain": "Security"
+  },
+  {
+   "title": "Amazon S3 Replication adds exclusions and Multi-Region key resolution",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-replication-exclusions-multi-region-key-resolution/",
+   "date": "2026-11-18",
+   "domain": "Cloud Concepts"
+  },
   {
    "title": "Amazon EC2 C8gn instances are now available in AWS Israel (Tel Aviv) region",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c8gn/",
@@ -20,34 +74,10 @@
    "domain": "Security"
   },
   {
-   "title": "Amazon API Gateway REST APIs now support JWT authorizers",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-rest-authorizers-jwt/",
+   "title": "Amazon Cognito now supports authentication level and method token claims",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cognito-acr-amr-token/",
    "date": "2026-11-17",
-   "domain": "Technology"
-  },
-  {
-   "title": "Amazon Bedrock AgentCore Memory now supports short-term memory retention of up to 10 years",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-memory-10-year-retention",
-   "date": "2026-11-17",
-   "domain": "Technology"
-  },
-  {
-   "title": "Amazon Bedrock AgentCore Memory now provides full session summaries",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-memory-full-session-summaries",
-   "date": "2026-11-17",
-   "domain": "Technology"
-  },
-  {
-   "title": "Amazon SageMaker now supports AI data preparation capabilities to build high-quality datasets for model development",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-ai-data-prep-capabilities/",
-   "date": "2026-11-17",
-   "domain": "Technology"
-  },
-  {
-   "title": "AWS Lambda now supports scale to and from zero for Lambda Managed Instances",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-managed-instances-scale-to-zero/",
-   "date": "2026-11-17",
-   "domain": "Technology"
+   "domain": "Security"
   },
   {
    "title": "Amazon OpenSearch UI is now available in the Africa (Cape Town) Region",
@@ -62,46 +92,16 @@
    "domain": "Security"
   },
   {
-   "title": "Amazon VPC, AWS Transit Gateway, and AWS Cloud WAN now offer a 99.999% availability SLA for cross-Region traffic",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/vpc-tgw-cloudwan-99999-sla/",
-   "date": "2026-11-17",
-   "domain": "Cloud Concepts"
-  },
-  {
-   "title": "Amazon S3 now provides post-quantum TLS visibility in AWS CloudTrail",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-post-quantum-tls-aws-cloudtrail/",
-   "date": "2026-11-17",
-   "domain": "Security"
-  },
-  {
-   "title": "AWS Security Hub extends unified security management to Google Cloud Platform",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-gcp/",
-   "date": "2026-11-17",
-   "domain": "Security"
-  },
-  {
    "title": "AWS announces consistent sharing controls for credits, Savings Plans, and Reserved Instances",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-benefits-sharing-capabilities/",
    "date": "2026-11-17",
    "domain": "Billing"
   },
   {
-   "title": "AWS IAM announces Access Troubleshooter to debug access denied errors",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/iam-access-troubleshooter/",
-   "date": "2026-11-17",
-   "domain": "Security"
-  },
-  {
    "title": "Cost Optimization Hub now supports stopping idle Amazon EC2 instances",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cost-hub-stop-idle-ec2/",
    "date": "2026-11-17",
    "domain": "Billing"
-  },
-  {
-   "title": "Amazon ECR now replicates image deletions across regions and accounts",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/replication-deletes-amazon-ecr",
-   "date": "2026-11-16",
-   "domain": "Cloud Concepts"
   }
  ]
 }

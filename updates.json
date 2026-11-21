@@ -1,11 +1,107 @@
 {
- "updated": "2026-11-20",
+ "updated": "2026-11-21",
  "items": [
+  {
+   "title": "Web Search on Amazon Bedrock expands language support and country-aware search",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/web-search-amazon-bedrock/",
+   "date": "2026-11-21",
+   "domain": "Technology"
+  },
+  {
+   "title": "Amazon RDS for Oracle now supports Primary Endpoint",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-primary-endpoint-v2/",
+   "date": "2026-11-20",
+   "domain": "Technology"
+  },
+  {
+   "title": "AWS Lambda now publishes Event Function state change events to Amazon EventBridge",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-function-state-events/",
+   "date": "2026-11-20",
+   "domain": "Technology"
+  },
+  {
+   "title": "Amazon RDS for Oracle now supports Replica First Patching for reduced downtime",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-replica-first-patching/",
+   "date": "2026-11-20",
+   "domain": "Technology"
+  },
+  {
+   "title": "Amazon Cognito extends multi-Region replication to additional AWS Regions",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-mrr-opt-in-regions/",
+   "date": "2026-11-20",
+   "domain": "Security"
+  },
+  {
+   "title": "Amazon CloudWatch EKS Container Insights now offers built-in monitoring for open source Kubernetes tools",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudwatch-eks-kubernetes-tools/",
+   "date": "2026-11-20",
+   "domain": "Technology"
+  },
+  {
+   "title": "AWS announces Data Hub in AWS Billing and Cost Management (preview)",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/data-hub-billing-cost-management-preview/",
+   "date": "2026-11-20",
+   "domain": "Billing"
+  },
+  {
+   "title": "AWS Lambda now provides cost optimization recommendations for Event Functions",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-cost-optimization-recommendations/",
+   "date": "2026-11-20",
+   "domain": "Billing"
+  },
+  {
+   "title": "AWS Pricing Calculator now estimates workload costs through a new API",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-pricing-calculator-api/",
+   "date": "2026-11-20",
+   "domain": "Billing"
+  },
+  {
+   "title": "AWS Billing and Cost Management now offers APIs to track payment status",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-billing-cost-management-apis-payment-status/",
+   "date": "2026-11-20",
+   "domain": "Billing"
+  },
+  {
+   "title": "AWS Lambda MicroVMs is now available in 7 additional AWS regions",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-microvms-7-regions",
+   "date": "2026-11-20",
+   "domain": "Cloud Concepts"
+  },
+  {
+   "title": "Amazon Managed Service for Prometheus now available in the AWS European Sovereign Cloud (Germany) region",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amp-aws-european-sovereign-cloud/",
+   "date": "2026-11-20",
+   "domain": "Cloud Concepts"
+  },
+  {
+   "title": "AWS launches standardized cost and rate columns in CUR 2.0 and Cost Explorer",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-cur-cost-explorer/",
+   "date": "2026-11-20",
+   "domain": "Billing"
+  },
+  {
+   "title": "Amazon Route 53 now supports Availability Zone (AZ) affinity routing",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/route-53-affinity-routing/",
+   "date": "2026-11-20",
+   "domain": "Cloud Concepts"
+  },
   {
    "title": "Announcing the general availability of a new AWS Local Zone in Bogotá, Colombia",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-local-zone-bogota-colombia/",
    "date": "2026-11-20",
    "domain": "Cloud Concepts"
+  },
+  {
+   "title": "Amazon Transcribe now available in AWS European Sovereign Cloud",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-transcribe-germany/",
+   "date": "2026-11-20",
+   "domain": "Cloud Concepts"
+  },
+  {
+   "title": "AWS Lambda MicroVMs now supports customer managed keys in AWS KMS",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-microvms-customer-managed-keys/",
+   "date": "2026-11-20",
+   "domain": "Security"
   },
   {
    "title": "Amazon Cognito now supports client ID metadata documents",
@@ -14,82 +110,16 @@
    "domain": "Security"
   },
   {
-   "title": "Amazon Aurora DSQL now delivers up to 50% higher write throughput",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-dsql-higher-write-throughput/",
+   "title": "IAM Roles Anywhere now supports aliases to simplify workload configuration",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/iam-roles-anywhere-alias/",
    "date": "2026-11-19",
-   "domain": "Technology"
-  },
-  {
-   "title": "Amazon CloudFront adds IP based routing and connection logs to SaaS Manager",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudfront-ip-based-routing-connection-logging",
-   "date": "2026-11-19",
-   "domain": "Technology"
-  },
-  {
-   "title": "Amazon CloudFront simplifies domain moves and onboarding for SaaS Manager",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudfront-domain-moves-distribution-tenants",
-   "date": "2026-11-19",
-   "domain": "Technology"
-  },
-  {
-   "title": "AWS Lambda durable functions now supports OpenTelemetry tracing",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-durable-otel/",
-   "date": "2026-11-19",
-   "domain": "Technology"
-  },
-  {
-   "title": "Amazon Route 53 now supports health checks for private endpoints",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/route-53-private-endpoint-health-checks/",
-   "date": "2026-11-19",
-   "domain": "Technology"
+   "domain": "Security"
   },
   {
    "title": "Amazon Cognito now supports AWS Secrets Manager for app client secrets",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-secrets-manager-integration/",
    "date": "2026-11-19",
    "domain": "Security"
-  },
-  {
-   "title": "AWS WAF launches new Security Analytics Dashboard for real-time investigations",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-waf-security-analytics-dashboard/",
-   "date": "2026-11-19",
-   "domain": "Security"
-  },
-  {
-   "title": "Amazon Aurora DSQL now supports multi-Region peering across continents",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-dsql-intercontinental-multi-region-clusters/",
-   "date": "2026-11-19",
-   "domain": "Cloud Concepts"
-  },
-  {
-   "title": "Second-generation AWS Outposts racks now supported in the AWS European Sovereign Cloud (Germany) Region",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-outposts-thf-european-sovereign/",
-   "date": "2026-11-19",
-   "domain": "Cloud Concepts"
-  },
-  {
-   "title": "Amazon Inspector Code Security adds GitHub Enterprise Server and private connectivity",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/inspector-code-ghes-private-network/",
-   "date": "2026-11-19",
-   "domain": "Security"
-  },
-  {
-   "title": "Amazon Cognito now supports dynamic client registration",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-dynamic-client-registration/",
-   "date": "2026-11-19",
-   "domain": "Security"
-  },
-  {
-   "title": "Amazon SageMaker AI now supports cross-Region inference routing",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-cross-region-routing/",
-   "date": "2026-11-18",
-   "domain": "Cloud Concepts"
-  },
-  {
-   "title": "Amazon S3 Replication adds exclusions and Multi-Region key resolution",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-replication-exclusions-multi-region-key-resolution/",
-   "date": "2026-11-18",
-   "domain": "Cloud Concepts"
   }
  ]
 }

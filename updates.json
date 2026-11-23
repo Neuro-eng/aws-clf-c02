@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22",
+ "updated": "2026-11-23",
  "items": [
   {
    "title": "Web Search on Amazon Bedrock expands language support and country-aware search",
@@ -112,12 +112,6 @@
   {
    "title": "IAM Roles Anywhere now supports aliases to simplify workload configuration",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/iam-roles-anywhere-alias/",
-   "date": "2026-11-19",
-   "domain": "Security"
-  },
-  {
-   "title": "Amazon Cognito now supports AWS Secrets Manager for app client secrets",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-secrets-manager-integration/",
    "date": "2026-11-19",
    "domain": "Security"
   }

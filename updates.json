@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-24",
+ "updated": "2026-11-25",
  "items": [
+  {
+   "title": "Amazon Bedrock adds bedrock-runtime endpoint support for OpenAI Daybreak Red in AWS GovCloud (US)",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/gpt-daybreak-red-runtime-govcloud/",
+   "date": "2026-11-24",
+   "domain": "Technology"
+  },
+  {
+   "title": "Amazon OpenSearch Serverless is now available in the Africa (Cape Town) Region",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-serverless-available-cape-town-region/",
+   "date": "2026-11-24",
+   "domain": "Cloud Concepts"
+  },
+  {
+   "title": "AWS CloudFormation makes resource coverage comprehensive with 206 new types",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudformation-coverage-expansion/",
+   "date": "2026-11-24",
+   "domain": "Technology"
+  },
+  {
+   "title": "Amazon RDS for SQL Server now supports up to 500 databases per instance",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-sqlserver-supports-500-databases-per-instance",
+   "date": "2026-11-24",
+   "domain": "Technology"
+  },
   {
    "title": "Amazon EC2 X8i instances are now available in the Asia Pacific (New Zealand) Region",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-x8i-new-zealand/",
@@ -10,6 +34,12 @@
   {
    "title": "Amazon SageMaker HyperPod now supports managed observability and user management extensions for Slurm clusters",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-hyperpod-extensions/",
+   "date": "2026-11-23",
+   "domain": "Technology"
+  },
+  {
+   "title": "Amazon API Gateway announces API Portal",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-announces-api-portal/",
    "date": "2026-11-23",
    "domain": "Technology"
   },
@@ -38,37 +68,13 @@
    "domain": "Cloud Concepts"
   },
   {
-   "title": "Amazon CloudFront Announces HTTP/2 Support for Connections to Origins",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-cloudfront-http2-origins/",
-   "date": "2026-11-23",
-   "domain": "Technology"
-  },
-  {
-   "title": "Announcing metal size for Amazon EC2 G7 instances",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-g7-metal-size/",
-   "date": "2026-11-23",
-   "domain": "Technology"
-  },
-  {
-   "title": "Amazon Aurora serverless for MySQL now supports up to 384 ACUs",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-serverless-mysql-supports-384-acu/",
-   "date": "2026-11-23",
-   "domain": "Technology"
-  },
-  {
-   "title": "Amazon SageMaker Studio now supports training job submission and model deployment for SageMaker HyperPod clusters",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-studio-hyperpod/",
-   "date": "2026-11-23",
-   "domain": "Technology"
-  },
-  {
    "title": "Amazon Inspector expands runtime reachability analysis for ECR and EC2 findings",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/inspector-runtime-reachability/",
    "date": "2026-11-23",
    "domain": "Security"
   },
   {
-   "title": "API security with WAF",
+   "title": "AWS WAF announces automated discovery and protection for API endpoints",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/api-security-with-waf/",
    "date": "2026-11-23",
    "domain": "Security"
@@ -108,12 +114,6 @@
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-billing-cost-management-apis-payment-status/",
    "date": "2026-11-20",
    "domain": "Billing"
-  },
-  {
-   "title": "AWS Lambda MicroVMs is now available in 7 additional AWS regions",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-microvms-7-regions",
-   "date": "2026-11-20",
-   "domain": "Cloud Concepts"
   },
   {
    "title": "AWS launches standardized cost and rate columns in CUR 2.0 and Cost Explorer",

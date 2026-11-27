@@ -1,6 +1,12 @@
 {
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "items": [
+  {
+   "title": "Amazon RDS for PostgreSQL supports minor versions 18.7, 17.12, 16.16, 15.20, and 14.25",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-postgresql-18-7-17-12-16-16-15-20-14-25/",
+   "date": "2026-11-26",
+   "domain": "Technology"
+  },
   {
    "title": "AWS Lambda now supports orchestrating MicroVMs with Lambda durable functions",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-durable-microvm/",
@@ -48,12 +54,6 @@
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-iam/",
    "date": "2026-11-25",
    "domain": "Security"
-  },
-  {
-   "title": "Amazon Bedrock adds bedrock-runtime endpoint support for OpenAI Daybreak Red in AWS GovCloud (US)",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/gpt-daybreak-red-runtime-govcloud/",
-   "date": "2026-11-24",
-   "domain": "Technology"
   },
   {
    "title": "Amazon OpenSearch Serverless is now available in the Africa (Cape Town) Region",

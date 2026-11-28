@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27",
+ "updated": "2026-11-28",
  "items": [
   {
    "title": "Amazon RDS for PostgreSQL supports minor versions 18.7, 17.12, 16.16, 15.20, and 14.25",
@@ -26,6 +26,12 @@
    "domain": "Technology"
   },
   {
+   "title": "Amazon OpenSearch Service optimised engine now publishes data to Amazon S3 Tables",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-service-publish-s3-tables",
+   "date": "2026-11-25",
+   "domain": "Technology"
+  },
+  {
    "title": "Amazon EC2 C9gd instances now available in additional regions",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c9gd-instances-additional-regions/",
    "date": "2026-11-25",
@@ -42,12 +48,6 @@
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-m9g-instances-additional-regions/",
    "date": "2026-11-25",
    "domain": "Cloud Concepts"
-  },
-  {
-   "title": "Elastic Load Balancing for Envoy is now generally available",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/elastic-load-balancing-for-envoy-generally-available",
-   "date": "2026-11-25",
-   "domain": "Technology"
   },
   {
    "title": "AWS IAM extends trusted identity propagation to IAM federation and IAM Roles Anywhere, and simplifies it in IAM Identity Center",
@@ -106,12 +106,6 @@
   {
    "title": "AWS Pricing Calculator now estimates workload costs through a new API",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-pricing-calculator-api/",
-   "date": "2026-11-20",
-   "domain": "Billing"
-  },
-  {
-   "title": "AWS Billing and Cost Management now offers APIs to track payment status",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-billing-cost-management-apis-payment-status/",
    "date": "2026-11-20",
    "domain": "Billing"
   }
